@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .map {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+    <title>OpenLayers: Capas raster</title>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <script type="text/javascript">
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+          
+          /*new ol.layer.Tile({
+            source: new ol.source.Stamen({
+              layer: 'toner'
+            }),
+            opacity: 0.5,
+            brightness: 0.2
+          }),*/
+          
+          /*new ol.layer.Tile({
+            preload: Infinity,
+            source: new ol.source.BingMaps({
+              key: 'Ata7t8y4_jStXw5LscmH7HbH7oAkbKTGhmr5gvzHHBTETAGgUIJb4r_R3yHiZ3gJ',
+              imagerySet: 'Aerial',
+            })
+          })*/
+          
+          /*new ol.layer.Tile({
+            source: new ol.source.XYZ({
+              url: 'https://{1-4}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png',
+              //url: 'https://{1-4}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png',
+            })
+          }),*/
+
+          /*new ol.layer.Tile({
+            source: new ol.source.XYZ({
+              url: 'https://tilemaps.icgc.cat/mapfactory/wmts/topo_suau/CAT3857/{z}/{x}/{y}.png',
+            })
+          })*/
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([2.183333, 41.383333]),
+          zoom: 14
+        })
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <style>
+      .map {
+        width: 100%;
+        height: 600px;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+    <title>OpenLayers: Capas raster</title>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <input type="radio" id="osm" name="radio" checked /><label for="osm">OSM</label>
+    <input type="radio" id="stamen" name="radio" /><label for="stamen">Stamen</label>
+    <input type="radio" id="bing" name="radio" /><label for="bing">Bing</label>
+    <input type="radio" id="carto" name="radio" /><label for="carto">Carto</label>
+
+    <script type="text/javascript">
+      const osmLayer = new ol.layer.Tile({
+        name: 'osm',
+        source: new ol.source.OSM(),
+        visible: true
+      });
+      
+      const stamenLayer = new ol.layer.Tile({
+        name: 'stamen',
+        source: new ol.source.Stamen({
+          layer: 'toner'
+        }),
+        visible: false
+      });
+      
+      const bingLayer = new ol.layer.Tile({
+        name: 'bing',
+        preload: Infinity,
+        source: new ol.source.BingMaps({
+          key: 'Ata7t8y4_jStXw5LscmH7HbH7oAkbKTGhmr5gvzHHBTETAGgUIJb4r_R3yHiZ3gJ',
+          imagerySet: 'Aerial',
+        }),
+        visible: false
+      });
+
+      const cartoLayer = new ol.layer.Tile({
+        name: 'carto',
+        source: new ol.source.XYZ({
+          url: 'https://{1-4}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png',
+        }),
+        visible: false
+      });
+
+      const layers = [
+        osmLayer,
+        stamenLayer,
+        bingLayer,
+        cartoLayer
+      ];
+
+      var map = new ol.Map({
+        target: 'map',
+        layers: layers,
+        view: new ol.View({
+          center: ol.proj.fromLonLat([2.183333, 41.383333]),
+          zoom: 14
+        })
+      });
+
+      // capturar evento de cambiar radio
+      let radios = document.getElementsByName('radio');
+      for (let radio of radios) {
+        radio.addEventListener('change', function() {
+          // esconder todas las capas pero mostrar capa seleccionada
+          for (let layer of layers) {
+            layer.setVisible(layer.get('name') === this.getAttribute('id'));
+          }
+        });
+      }
+    </script>
+  </body>
+</html>
