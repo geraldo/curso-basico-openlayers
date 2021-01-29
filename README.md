@@ -2,7 +2,7 @@
 
 ## Presentación y normas de uso
 
-Benvinguda i instruccions d'ús ../../ZProjectA/Barcelona_Activa/Documents/Formacio_Virtual_Teams/Regles_d'ús (003).pptx
+Benvinguda i instruccions d'ús: https://barcelonactiva.sharepoint.com/sites/EquipdeformaciCiber/Shared%20Documents/General/Regles_dus.pdf
 
 Recordeu mantenir desconnectades la vostra càmera i micròfon per evitar interferències.
 
