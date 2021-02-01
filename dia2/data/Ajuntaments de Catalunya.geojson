@@ -1,0 +1,9475 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6266927872,41.6147186037 ]
+    },
+    "properties": {
+    "MUNICIPI":"Lleida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0096039624,41.3932482204 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Vicenç dels Horts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2346043063,41.4923763882 ]
+    },
+    "properties": {
+    "MUNICIPI":"Forès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1206974,41.7517703 ]
+    },
+    "properties": {
+    "MUNICIPI":"Granera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7038667649,41.4776875747 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cabrera d'Anoia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.13877,41.64633 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tàrrega"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6898166033,41.4669641711 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cogul"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1039190451,42.3162885051 ]
+    },
+    "properties": {
+    "MUNICIPI":"Planoles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3388228,42.2023802 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fígols i Alinyà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5499722138,42.2192764604 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellfollit de la Roca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1549648509,41.495768163 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ripollet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.717101427,41.8225064352 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riudarenes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7797949389,41.580657646 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bruc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.591758136,42.1386032064 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Llorenç de Morunys"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4367665555,41.7032645995 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Esteve de Palautordera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1971651131,41.7614407281 ]
+    },
+    "properties": {
+    "MUNICIPI":"Plans de Sió"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.926712682,42.4228079844 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cantallops"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.188122396,42.3263170408 ]
+    },
+    "properties": {
+    "MUNICIPI":"Selva de Mar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7619512929,41.9383230115 ]
+    },
+    "properties": {
+    "MUNICIPI":"Aiguaviva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7635179698,41.999219083 ]
+    },
+    "properties": {
+    "MUNICIPI":"Àger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4649878037,42.4295169415 ]
+    },
+    "properties": {
+    "MUNICIPI":"Valls de Valira"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.95417,41.5550799 ]
+    },
+    "properties": {
+    "MUNICIPI":"Viladecavalls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2555606257,41.9758195118 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tiurana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9312123,42.1372262 ]
+    },
+    "properties": {
+    "MUNICIPI":"Quart"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2338358,41.5731143 ]
+    },
+    "properties": {
+    "MUNICIPI":"Parets del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1786465125,41.3366079416 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilaverd"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7194199,41.87142 ]
+    },
+    "properties": {
+    "MUNICIPI":"Os de Balaguer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8454019,42.4105973 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ger"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5168897606,41.4155234162 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pontons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2299910486,41.6008730016 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montornès de Segarra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.2772056973,42.2874612027 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cadaqués"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2178196208,41.2249552932 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rourell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2164921,41.8517134 ]
+    },
+    "properties": {
+    "MUNICIPI":"Oliola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6604939368,42.2370879335 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gósol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.143170224,41.6103233605 ]
+    },
+    "properties": {
+    "MUNICIPI":"Verdú"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3014948099,42.3747768845 ]
+    },
+    "properties": {
+    "MUNICIPI":"Setcases"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5067528533,42.0753384685 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Feliu de Pallerols"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0721813322,42.1715648011 ]
+    },
+    "properties": {
+    "MUNICIPI":"Armentera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5589370148,41.2992066369 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Jaume dels Domenys"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6582692055,41.5335235372 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torre de Claramunt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9000603153,42.185383906 ]
+    },
+    "properties": {
+    "MUNICIPI":"Talarn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7541929194,41.830958404 ]
+    },
+    "properties": {
+    "MUNICIPI":"Súria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4175285384,41.8686856588 ]
+    },
+    "properties": {
+    "MUNICIPI":"Espinelves"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9182545896,42.1879709433 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pontós"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2433459341,41.9406474424 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gurb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2614312974,41.6695344254 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ametlla del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3156882599,42.1734843377 ]
+    },
+    "properties": {
+    "MUNICIPI":"Coll de Nargó"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4486629,40.5981476 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ulldecona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7650638246,42.020176159 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montclar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4411025762,41.6529230758 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilalba Sasserra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.59049,41.25329 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellet i la Gornal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3819866386,42.3141065283 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ribera d'Urgellet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1797196482,41.8803858697 ]
+    },
+    "properties": {
+    "MUNICIPI":"Muntanyola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8368389655,42.3649509056 ]
+    },
+    "properties": {
+    "MUNICIPI":"Prats i Sansor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2461807118,42.2358465508 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cabó"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2095500528,41.1874933505 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pobla de Mafumet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1370661436,41.609252252 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sentmenat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3924481621,41.5023871621 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilassar de Mar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9942149953,42.209715296 ]
+    },
+    "properties": {
+    "MUNICIPI":"Siurana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9465843495,41.3833036855 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilosell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1446607129,41.9081009044 ]
+    },
+    "properties": {
+    "MUNICIPI":"Mont-ras"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.879156667,41.9741262388 ]
+    },
+    "properties": {
+    "MUNICIPI":"Puig-reig"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2699142982,41.5902048045 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montoliu de Segarra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6146354533,42.0633151299 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Aniol de Finestres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2274511364,41.4108746698 ]
+    },
+    "properties": {
+    "MUNICIPI":"Barberà de la Conca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0456185635,41.8957341831 ]
+    },
+    "properties": {
+    "MUNICIPI":"Artesa de Segre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6716488816,40.7711914003 ]
+    },
+    "properties": {
+    "MUNICIPI":"Camarles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1863949491,41.9154301838 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ponts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1970496205,41.5318640527 ]
+    },
+    "properties": {
+    "MUNICIPI":"Passanant i Belltall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1713920845,41.9528979329 ]
+    },
+    "properties": {
+    "MUNICIPI":"Regencós"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9550745672,41.7980913343 ]
+    },
+    "properties": {
+    "MUNICIPI":"Artés"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7619076793,41.220653438 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilella Baixa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.30989,41.87611 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sanaüja"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9311044733,42.1371775636 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.01778568,41.989361209 ]
+    },
+    "properties": {
+    "MUNICIPI":"Corçà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5700094892,41.8298026918 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alfarràs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7946814155,41.3825276985 ]
+    },
+    "properties": {
+    "MUNICIPI":"Subirats"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0178338122,42.3219971763 ]
+    },
+    "properties": {
+    "MUNICIPI":"Toses"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8031278245,41.1267597248 ]
+    },
+    "properties": {
+    "MUNICIPI":"Marçà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1011749014,42.1193167213 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alpens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0454989095,41.3809368136 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Feliu de Llobregat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6115253,41.3839372 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Martí Sarroca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3732461969,41.183053343 ]
+    },
+    "properties": {
+    "MUNICIPI":"Nou de Gaià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.805366,41.5647465 ]
+    },
+    "properties": {
+    "MUNICIPI":"Espot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7094792211,41.519975794 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vallbona d'Anoia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6172029313,41.7118579407 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilanova de Segrià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4611285676,42.1413771795 ]
+    },
+    "properties": {
+    "MUNICIPI":"Preses"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2768104028,41.3953009889 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cabra del Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0458118973,41.1819151069 ]
+    },
+    "properties": {
+    "MUNICIPI":"Maspujols"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2802046969,41.8387138627 ]
+    },
+    "properties": {
+    "MUNICIPI":"Seva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0679303,41.8175284 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castell-Platja d'Aro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8035918721,40.8852969517 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ametlla de Mar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3190814445,41.6974143112 ]
+    },
+    "properties": {
+    "MUNICIPI":"Oluges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5170890713,41.994631821 ]
+    },
+    "properties": {
+    "MUNICIPI":"Solsona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2058279089,41.2113997257 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilallonga del Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8200537625,41.1460812336 ]
+    },
+    "properties": {
+    "MUNICIPI":"Falset"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0941772785,42.327433813 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilajuïga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8314252626,41.019926031 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vandellòs i l'Hospitalet de l'Infant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9308222144,41.4744961182 ]
+    },
+    "properties": {
+    "MUNICIPI":"Martorell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9452014,42.1730883 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castell de l'Areny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.873610652,41.747880447 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Fruitós de Bages"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1469397416,42.3075065804 ]
+    },
+    "properties": {
+    "MUNICIPI":"Palau-saverdera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2729583,41.7212875 ]
+    },
+    "properties": {
+    "MUNICIPI":"Figaró-Montmany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2794320055,41.2032229854 ]
+    },
+    "properties": {
+    "MUNICIPI":"Secuita"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2489482637,41.2425615198 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vallmoll"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9098443334,42.295051871 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.095727123,41.9859673088 ]
+    },
+    "properties": {
+    "MUNICIPI":"Olost"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0560368,42.0791358 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tallada d'Empordà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1777641059,41.4559801648 ]
+    },
+    "properties": {
+    "MUNICIPI":"Solivella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0544397,41.5593689 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Martí de Riucorb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5959109029,41.695937487 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rosselló"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1067574113,41.6481919092 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilagrassa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8610178659,41.6291097864 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellbell i el Vilar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2740051316,42.0625834175 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Vicenç de Torelló"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.131854,42.5945468 ]
+    },
+    "properties": {
+    "MUNICIPI":"Guingueta d'Àneu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0971132,41.8129142 ]
+    },
+    "properties": {
+    "MUNICIPI":"Moià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5842826,41.7459457 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Feliu de Buixalleu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4577056685,41.1857481474 ]
+    },
+    "properties": {
+    "MUNICIPI":"Roda de Berà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8940178287,42.225691137 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Julià de Cerdanyola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.257974842,42.1268941705 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Maria de Besora"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9030432368,42.3845003444 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fontanals de Cerdanya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5348439257,41.220069037 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vendrell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.634961882,41.1982465314 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cunit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6397937873,41.9566576007 ]
+    },
+    "properties": {
+    "MUNICIPI":"Anglès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6382950563,42.2157698282 ]
+    },
+    "properties": {
+    "MUNICIPI":"Argelaguer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7239989,40.7190627 ]
+    },
+    "properties": {
+    "MUNICIPI":"Deltebre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1401254853,42.2942924153 ]
+    },
+    "properties": {
+    "MUNICIPI":"Campelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.209743,42.109944 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montesquiu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9113767693,42.2494533307 ]
+    },
+    "properties": {
+    "MUNICIPI":"Avinyonet de Puigventós"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9203880151,41.5095847265 ]
+    },
+    "properties": {
+    "MUNICIPI":"Floresta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.492792199,40.7144376213 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Bàrbara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9133526185,42.0408492618 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bordils"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9710241058,42.2171404567 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilamalla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2506548,42.0131207 ]
+    },
+    "properties": {
+    "MUNICIPI":"Masies de Voltregà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0881407,41.5251164 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vallbona de les Monges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.260738689,40.9099317379 ]
+    },
+    "properties": {
+    "MUNICIPI":"Arnes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5079571211,41.8784801759 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Hilari Sacalm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6310352589,41.6729506662 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torre-serona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8621118888,42.2528233238 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bagà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1350246945,41.0821881141 ]
+    },
+    "properties": {
+    "MUNICIPI":"Salou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5702678008,41.6242012274 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Iscle de Vallalta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2100332805,41.5354804038 ]
+    },
+    "properties": {
+    "MUNICIPI":"Mollet del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3678132373,41.5263091136 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cabrils"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3904848194,41.8485109742 ]
+    },
+    "properties": {
+    "MUNICIPI":"Viladrau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9421486327,42.0464735451 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Joan de Mollet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.941027862,42.2500127398 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilafant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8638682,41.6655918 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pont de Vilomara i Rocafort"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.624880623,41.1913988233 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torre de l'Espanyol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3106388828,41.7975261476 ]
+    },
+    "properties": {
+    "MUNICIPI":"Massoteres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9635998197,42.0525734849 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sagàs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7538307757,41.2844474014 ]
+    },
+    "properties": {
+    "MUNICIPI":"Margalef"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8764175049,41.3225763649 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ulldemolins"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4805818,42.2335387 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vansa i Fórnols"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0575963004,41.6804686663 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Llorenç Savall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7672167022,42.0945472624 ]
+    },
+    "properties": {
+    "MUNICIPI":"Camós"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4043533042,41.6392116727 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llinars del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1045036598,41.3965983384 ]
+    },
+    "properties": {
+    "MUNICIPI":"Espluga de Francolí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0874859345,41.6184256129 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellar del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6536742,41.973358 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Julià del Llor i Bonmatí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.3536860168,41.1803356842 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pobla de Massaluca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9249772045,41.5422311615 ]
+    },
+    "properties": {
+    "MUNICIPI":"Arbeca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0815934625,41.6589680413 ]
+    },
+    "properties": {
+    "MUNICIPI":"Anglesola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0510244325,41.1377115412 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riudoms"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6500556168,41.4325788801 ]
+    },
+    "properties": {
+    "MUNICIPI":"Granyena de les Garrigues"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7337235103,41.7986062858 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Mateu de Bages"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8792611946,41.9001006425 ]
+    },
+    "properties": {
+    "MUNICIPI":"Navàs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4004235722,40.8729495175 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alfara de Carles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2769993075,41.6217029445 ]
+    },
+    "properties": {
+    "MUNICIPI":"Canovelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6980386889,41.3465132017 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilafranca del Penedès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9215346656,42.1250395929 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gavet de la Conca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0898154617,41.2519807351 ]
+    },
+    "properties": {
+    "MUNICIPI":"Albiol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8117129659,41.2349517168 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sitges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8511247261,42.3972685683 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sarroca de Bellera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.026963772,41.2949381748 ]
+    },
+    "properties": {
+    "MUNICIPI":"Capafonts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8227403036,42.0772395913 ]
+    },
+    "properties": {
+    "MUNICIPI":"Avià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.115015489,41.5085844973 ]
+    },
+    "properties": {
+    "MUNICIPI":"Badia del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.04292,42.22678 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riumors"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5312386983,40.7154627818 ]
+    },
+    "properties": {
+    "MUNICIPI":"Masdenverge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6722452189,41.4955067882 ]
+    },
+    "properties": {
+    "MUNICIPI":"Aspa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5076538,42.351508 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alàs i Cerc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5792870591,41.7974909137 ]
+    },
+    "properties": {
+    "MUNICIPI":"Molsosa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8945704883,41.5450089109 ]
+    },
+    "properties": {
+    "MUNICIPI":"Olesa de Montserrat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0115309607,41.6254759859 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bellpuig"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3610495,41.6427762 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cardedeu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9120217527,42.0673526191 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cervià de Ter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.01238,41.87689 ]
+    },
+    "properties": {
+    "MUNICIPI":"Foradada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7544130082,42.0800524643 ]
+    },
+    "properties": {
+    "MUNICIPI":"Capolat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7637640655,42.0797325318 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Esteve de la Sarga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7502256454,42.3859565172 ]
+    },
+    "properties": {
+    "MUNICIPI":"Maçanet de Cabrenys"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0109879032,41.4379951982 ]
+    },
+    "properties": {
+    "MUNICIPI":"Papiol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3093073,42.0725581 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bassella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.69237,42.7856 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bossòst"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1626963395,42.3486261308 ]
+    },
+    "properties": {
+    "MUNICIPI":"Queralbs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7434306655,41.7294763846 ]
+    },
+    "properties": {
+    "MUNICIPI":"Menàrguens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.2042765724,42.3392101741 ]
+    },
+    "properties": {
+    "MUNICIPI":"Port de la Selva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.3107560072,41.094883407 ]
+    },
+    "properties": {
+    "MUNICIPI":"Batea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2219911726,41.2346242393 ]
+    },
+    "properties": {
+    "MUNICIPI":"Masó"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9753841712,41.2104827165 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alforja"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5199259751,40.6717140882 ]
+    },
+    "properties": {
+    "MUNICIPI":"Freginals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6645105781,41.3555898613 ]
+    },
+    "properties": {
+    "MUNICIPI":"Granadella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6892218403,41.3714274816 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cabanyes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3510817266,41.6945329121 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cànoves i Samalús"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6657223494,41.282888939 ]
+    },
+    "properties": {
+    "MUNICIPI":"Palma d'Ebre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.819741278,42.2306328334 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cabanelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0830704515,42.3063836537 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pedret i Marzà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.123039497,42.6286344941 ]
+    },
+    "properties": {
+    "MUNICIPI":"Esterri d'Àneu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9825931174,41.4761110375 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellbisbal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0729886675,41.3545939056 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cornellà de Llobregat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1076510865,42.0506136541 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ullà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3075597552,41.5566477563 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llorac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0671836134,42.3749074514 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilamaniscle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1124240552,41.8686704481 ]
+    },
+    "properties": {
+    "MUNICIPI":"Estany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5416287802,41.7055218506 ]
+    },
+    "properties": {
+    "MUNICIPI":"Prats de Rei"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.72313,41.28034 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bisbal de Falset"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1669613443,42.0358225226 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sobremunt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3648854723,42.3117463613 ]
+    },
+    "properties": {
+    "MUNICIPI":"Camprodon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1703100985,41.2630723331 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alcover"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2394975877,41.5861426743 ]
+    },
+    "properties": {
+    "MUNICIPI":"Lliçà de Vall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8470684445,42.3937130708 ]
+    },
+    "properties": {
+    "MUNICIPI":"Agullana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.66446,41.35678 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bovera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4378061,41.7760297 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellfollit de Riubregós"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7124047758,40.8750715819 ]
+    },
+    "properties": {
+    "MUNICIPI":"Perelló"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0967280247,41.180934837 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellvell del Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1818090596,42.3721678079 ]
+    },
+    "properties": {
+    "MUNICIPI":"Soriguera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2357567962,41.888887559 ]
+    },
+    "properties": {
+    "MUNICIPI":"Malla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0511273602,41.4000625109 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vimbodí i Poblet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.54884774,41.6017099332 ]
+    },
+    "properties": {
+    "MUNICIPI":"Jorba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6626011845,41.3207577255 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Margarida i els Monjos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6893256485,41.6273077685 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pineda de Mar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.124951817,41.5157836878 ]
+    },
+    "properties": {
+    "MUNICIPI":"Barberà del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4535590712,41.3155222602 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montmell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.884412,42.1663939 ]
+    },
+    "properties": {
+    "MUNICIPI":"Nou de Berguedà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7458315,42.3162412 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pont de Suert"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9655710217,41.7579159495 ]
+    },
+    "properties": {
+    "MUNICIPI":"Penelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1530479794,41.727264118 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Quirze Safaja"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9062221906,41.759474573 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bellcaire d'Urgell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9991991726,41.3039576885 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gavà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.10819,42.63446 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alt Àneu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7754938958,41.3714457066 ]
+    },
+    "properties": {
+    "MUNICIPI":"Juncosa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7003261204,41.5982171971 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellolí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9958522656,41.3373873756 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Climent de Llobregat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7816144688,41.0997649258 ]
+    },
+    "properties": {
+    "MUNICIPI":"Capçanes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4005891727,41.673561796 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Antoni de Vilamajor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2836403211,41.9999421874 ]
+    },
+    "properties": {
+    "MUNICIPI":"Manlleu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8103521547,41.9344274566 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fornells de la Selva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5529400443,41.2828500111 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llorenç del Penedès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0184776419,41.6790651036 ]
+    },
+    "properties": {
+    "MUNICIPI":"Barbens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7194344802,41.3768418002 ]
+    },
+    "properties": {
+    "MUNICIPI":"Granada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7173625246,42.836626736 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bausen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0682876024,42.0002251225 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ullastret"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3387379167,42.2023805977 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fígols"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6664155434,42.1323195266 ]
+    },
+    "properties": {
+    "MUNICIPI":"Guixers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2659035406,41.5458898441 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montornès del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9880959218,41.3095997824 ]
+    },
+    "properties": {
+    "MUNICIPI":"Prades"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.634255395,41.5722577647 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilanova del Camí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9080316,42.0164078 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Martí Vell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8808,41.6516 ]
+    },
+    "properties": {
+    "MUNICIPI":"Palau d'Anglesola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1928080803,41.5127215114 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llagosta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9941013207,42.1356610539 ]
+    },
+    "properties": {
+    "MUNICIPI":"Borredà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9747894024,42.2437227528 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pobla de Lillet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2496124548,41.7687077701 ]
+    },
+    "properties": {
+    "MUNICIPI":"Aiguafreda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0238904321,42.1872161523 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Jaume de Frontanyà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0402142869,41.6083664332 ]
+    },
+    "properties": {
+    "MUNICIPI":"Preixana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8767869248,41.8844099312 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cassà de la Selva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5000446386,40.8798589493 ]
+    },
+    "properties": {
+    "MUNICIPI":"Aldover"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8430431519,42.5626306093 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vall de Boí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1323601,42.124898 ]
+    },
+    "properties": {
+    "MUNICIPI":"Escala"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4222980518,41.7172201215 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pujalt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0108039285,42.0204585978 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rupià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8698014,41.5204622 ]
+    },
+    "properties": {
+    "MUNICIPI":"Borges Blanques"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0018905128,42.3912584553 ]
+    },
+    "properties": {
+    "MUNICIPI":"Espolla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4792928651,41.0779948462 ]
+    },
+    "properties": {
+    "MUNICIPI":"Corbera d'Ebre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4813324922,40.5430664009 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alcanar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9272304078,42.4310894015 ]
+    },
+    "properties": {
+    "MUNICIPI":"Puigcerdà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7209241234,42.7396703053 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bòrdes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0310895137,41.4934899194 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rubí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8754426173,41.1562464239 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pradell de la Teixeta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8902392273,42.254505094 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilanant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1293521266,41.8463837114 ]
+    },
+    "properties": {
+    "MUNICIPI":"Palamós"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4637649381,40.6822758257 ]
+    },
+    "properties": {
+    "MUNICIPI":"Galera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2476799,41.20711 ]
+    },
+    "properties": {
+    "MUNICIPI":"Garidells"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4433747125,41.7278397634 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fogars de Montclús"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.316745806,41.643560529 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ribera d'Ondara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6629646446,41.861310443 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Coloma de Farners"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0573719258,41.0709979116 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cambrils"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6038726572,42.012365123 ]
+    },
+    "properties": {
+    "MUNICIPI":"Amer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.83731,42.36531 ]
+    },
+    "properties": {
+    "MUNICIPI":"Isòvol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5963282176,42.2319271488 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montagut i Oix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9612184108,41.6147801353 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilanova de Bellpuig"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0897434857,42.248781657 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gombrèn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0268643475,42.1489592297 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ventalló"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7937533256,41.9524252037 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilablareix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8117091119,41.3103928591 ]
+    },
+    "properties": {
+    "MUNICIPI":"Olivella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0765999,41.8609316 ]
+    },
+    "properties": {
+    "MUNICIPI":"Calonge i Sant Antoni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2753446246,41.7542858718 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torrefeta i Florejacs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2173925054,41.8515802146 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cabanabona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.487553955,41.5331799661 ]
+    },
+    "properties": {
+    "MUNICIPI":"Soses"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4406295,41.1679157 ]
+    },
+    "properties": {
+    "MUNICIPI":"Creixell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7454545688,42.1696229232 ]
+    },
+    "properties": {
+    "MUNICIPI":"Serinyà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.74474,42.17103 ]
+    },
+    "properties": {
+    "MUNICIPI":"Maià de Montcal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4844756109,42.1830087374 ]
+    },
+    "properties": {
+    "MUNICIPI":"Olot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7794268878,41.6298926666 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bell-lloc d'Urgell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.162426393,42.4263906336 ]
+    },
+    "properties": {
+    "MUNICIPI":"Portbou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8605308295,42.2237552034 ]
+    },
+    "properties": {
+    "MUNICIPI":"Navata"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6308935012,41.934795161 ]
+    },
+    "properties": {
+    "MUNICIPI":"Clariana de Cardener"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5945117166,41.4265451067 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torrebesses"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6640953034,41.3902465126 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilobí del Penedès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2672146964,41.7376303305 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tagamanent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.45841,41.49447 ]
+    },
+    "properties": {
+    "MUNICIPI":"Aitona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6296701295,42.2328384456 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tortellà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2295279,41.8499558 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8247952598,41.9831570414 ]
+    },
+    "properties": {
+    "MUNICIPI":"Girona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5671122488,41.5576664875 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sudanell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1505042595,42.4040805377 ]
+    },
+    "properties": {
+    "MUNICIPI":"Colera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8745195667,41.6350654097 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fondarella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5377267919,42.057375875 ]
+    },
+    "properties": {
+    "MUNICIPI":"Planes d'Hostoles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8397920276,42.0348644196 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Julià de Ramis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5841676297,42.32518462 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cava"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.49056,40.90675 ]
+    },
+    "properties": {
+    "MUNICIPI":"Xerta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3579174825,41.3109192045 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vila-rodona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0006314713,42.0365699173 ]
+    },
+    "properties": {
+    "MUNICIPI":"Foixà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1689768982,42.2233169841 ]
+    },
+    "properties": {
+    "MUNICIPI":"Campdevànol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5664499,42.23121 ]
+    },
+    "properties": {
+    "MUNICIPI":"Josa i Tuixén"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1642753089,41.9149953382 ]
+    },
+    "properties": {
+    "MUNICIPI":"Palafrugell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4400076536,41.2210368211 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bonastre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.580888,40.713316 ]
+    },
+    "properties": {
+    "MUNICIPI":"Amposta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1308750602,42.0938288277 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Agustí de Lluçanès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0356419236,42.0384868098 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ultramort"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7961973523,42.069354665 ]
+    },
+    "properties": {
+    "MUNICIPI":"Palol de Revardit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4646815,42.0234172 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rupit i Pruit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.416732403,42.0239688961 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellar de la Ribera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4885797748,41.6559380729 ]
+    },
+    "properties": {
+    "MUNICIPI":"Veciana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2129849946,42.3123731991 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pardines"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7215500095,42.3058543854 ]
+    },
+    "properties": {
+    "MUNICIPI":"Albanyà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8152052511,41.7522793842 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vallfogona de Balaguer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1514175297,42.0587110633 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Boi de Lluçanès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.96543,42.24015 ]
+    },
+    "properties": {
+    "MUNICIPI":"Conca de Dalt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4390393298,41.0520561386 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gandesa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.2851319,40.6333983 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sénia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.410097262,41.1210681679 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilalba dels Arcs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0928974953,41.3306041851 ]
+    },
+    "properties": {
+    "MUNICIPI":"Prat de Llobregat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.060656578,41.9324059866 ]
+    },
+    "properties": {
+    "MUNICIPI":"Oristà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2663941836,41.3737669117 ]
+    },
+    "properties": {
+    "MUNICIPI":"Figuerola del Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2894133355,41.5541369653 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilanova del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9580383894,42.0468600641 ]
+    },
+    "properties": {
+    "MUNICIPI":"Flaçà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4539469,42.2110303 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vall de Bianya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.873080914,42.4168045263 ]
+    },
+    "properties": {
+    "MUNICIPI":"Jonquera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.32419,41.76252 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Guim de la Plana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1448925032,41.1108830711 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vila-seca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1751769749,41.8255470471 ]
+    },
+    "properties": {
+    "MUNICIPI":"Collsuspina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2430575468,42.5150383769 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tírvia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2088668742,42.4974798002 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llavorsí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7665614468,41.6785918252 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Salvador de Guardiola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2551185912,41.9297579092 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vic"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8322795,41.6296052 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sidamon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9572629254,41.9900900806 ]
+    },
+    "properties": {
+    "MUNICIPI":"Madremanya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0727982295,42.0279535668 ]
+    },
+    "properties": {
+    "MUNICIPI":"Serra de Daró"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.770936081,41.5335089975 ]
+    },
+    "properties": {
+    "MUNICIPI":"Hostalets de Pierola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7523422465,41.3626636363 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Cugat Sesgarrigues"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3878077099,41.9065705338 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Sadurní d'Osormort"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8294883224,41.5672661657 ]
+    },
+    "properties": {
+    "MUNICIPI":"Collbató"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9609324394,41.7996640878 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montgai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9159725213,42.0749680059 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llimiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9711367754,41.8638308422 ]
+    },
+    "properties": {
+    "MUNICIPI":"Avinyó"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3191312644,41.4791335366 ]
+    },
+    "properties": {
+    "MUNICIPI":"Masnou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7891908885,42.1429050824 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fontcoberta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9067790569,42.2186768414 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ordis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0853635315,42.10424115 ]
+    },
+    "properties": {
+    "MUNICIPI":"Albons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8520799697,42.3501705837 ]
+    },
+    "properties": {
+    "MUNICIPI":"Urús"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9806386401,42.3692638635 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Climent Sescebes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5277260297,41.5725458833 ]
+    },
+    "properties": {
+    "MUNICIPI":"Caldes d'Estrac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3439372624,42.3205757904 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llanars"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6190644196,40.7463348748 ]
+    },
+    "properties": {
+    "MUNICIPI":"Aldea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2869651,41.6098166 ]
+    },
+    "properties": {
+    "MUNICIPI":"Roca del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1639125,41.9171933 ]
+    },
+    "properties": {
+    "MUNICIPI":"Begur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0432960158,41.3474831606 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Boi de Llobregat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6195644747,41.5215931677 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alfés"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9890649953,41.1361049534 ]
+    },
+    "properties": {
+    "MUNICIPI":"Botarell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8157,42.08917 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cornellà del Terri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2709830925,41.6655858391 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cervera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9069845784,42.0568701462 ]
+    },
+    "properties": {
+    "MUNICIPI":"Olvan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2808126513,41.4775320471 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rocafort de Queralt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7768475524,41.7904481301 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vidreres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.329990461,41.2468720603 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilabella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.3847180683,41.0090686614 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bot"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7359370934,42.0192646312 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montmajor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0882957522,41.469929799 ]
+    },
+    "properties": {
+    "MUNICIPI":"Senan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4370881081,41.7314977113 ]
+    },
+    "properties": {
+    "MUNICIPI":"Almacelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0401583808,41.551063106 ]
+    },
+    "properties": {
+    "MUNICIPI":"Maldà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9809076191,42.1049686239 ]
+    },
+    "properties": {
+    "MUNICIPI":"Quar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3199368145,41.4995311371 ]
+    },
+    "properties": {
+    "MUNICIPI":"Teià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.17889794,41.1228074638 ]
+    },
+    "properties": {
+    "MUNICIPI":"Canonja"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.462363979,42.3581524275 ]
+    },
+    "properties": {
+    "MUNICIPI":"Seu d'Urgell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7060387504,41.1632997896 ]
+    },
+    "properties": {
+    "MUNICIPI":"Molar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9041328835,41.710211603 ]
+    },
+    "properties": {
+    "MUNICIPI":"Linyola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7099733152,42.1330586708 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellar del Riu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9260843503,42.2228430891 ]
+    },
+    "properties": {
+    "MUNICIPI":"Borrassà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9609065909,41.1301150378 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riudecanyes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.250645769,41.0385920594 ]
+    },
+    "properties": {
+    "MUNICIPI":"Caseres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0739652196,41.5410511571 ]
+    },
+    "properties": {
+    "MUNICIPI":"Roses"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3905890961,41.6850080381 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Pere de Vilamajor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7346331399,41.2482181019 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cabacés"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8940125646,41.6297859916 ]
+    },
+    "properties": {
+    "MUNICIPI":"Mollerussa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0852661599,41.4706779764 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Cugat del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8782176064,42.0922032304 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castell de Mur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6517634764,41.414123438 ]
+    },
+    "properties": {
+    "MUNICIPI":"Font-rubí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9728303331,42.3506958427 ]
+    },
+    "properties": {
+    "MUNICIPI":"Masarac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5468381705,42.0144352552 ]
+    },
+    "properties": {
+    "MUNICIPI":"Susqueda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9363030703,41.4228890796 ]
+    },
+    "properties": {
+    "MUNICIPI":"Albi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.53378,41.4722099 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llacuna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7601738595,41.9905406349 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Gregori"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2365003611,42.015316278 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Hipòlit de Voltregà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8627309,41.4407442 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gelida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8894480472,41.5511211031 ]
+    },
+    "properties": {
+    "MUNICIPI":"Puiggròs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5093834474,41.578207141 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Vicenç de Montalt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9152072706,41.3680752654 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pobla de Cérvoles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.463544772,41.7245629357 ]
+    },
+    "properties": {
+    "MUNICIPI":"Campins"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6050402395,41.5720412374 ]
+    },
+    "properties": {
+    "MUNICIPI":"Albatàrrec"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3197511245,42.5505574108 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alins"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4001478,41.9707994 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pinell de Solsonès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4901775302,41.703182246 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Martí Sesgueioles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8460389054,42.1043270988 ]
+    },
+    "properties": {
+    "MUNICIPI":"Berga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6858136332,41.5314261321 ]
+    },
+    "properties": {
+    "MUNICIPI":"Capellades"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1205466011,41.7513942255 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellterçol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.02872,41.78034 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Feliu de Guíxols"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7780390866,41.194914856 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gratallops"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.61732,41.48046 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alcanó"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2605921464,42.0471495766 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torelló"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0331163088,41.2285339418 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilaplana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.641783,42.2130734 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sales de Llierca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9051755836,41.264922841 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cornudella de Montsant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9187621126,41.6059007947 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vacarisses"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0638361,42.3229847 ]
+    },
+    "properties": {
+    "MUNICIPI":"Baix Pallars"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2227174287,42.1002709582 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Quirze de Besora"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5969208427,41.001260005 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rasquera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7233661,40.7207983 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Jaume d'Enveja"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3546007798,41.5550968427 ]
+    },
+    "properties": {
+    "MUNICIPI":"Òrrius"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7316274195,41.2161988896 ]
+    },
+    "properties": {
+    "MUNICIPI":"Figuera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.84123,42.01434 ]
+    },
+    "properties": {
+    "MUNICIPI":"Casserres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1544078836,42.3658715308 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llançà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9025361627,42.7072746103 ]
+    },
+    "properties": {
+    "MUNICIPI":"Naut Aran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9368169368,41.112935262 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilanova d'Escornalbou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2433181598,41.52562682 ]
+    },
+    "properties": {
+    "MUNICIPI":"Martorelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7637219681,42.1164296376 ]
+    },
+    "properties": {
+    "MUNICIPI":"Banyoles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.810357,41.9366402 ]
+    },
+    "properties": {
+    "MUNICIPI":"Avellanes i Santa Linya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1162760553,41.5616775053 ]
+    },
+    "properties": {
+    "MUNICIPI":"Nalec"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6112963479,41.4768389735 ]
+    },
+    "properties": {
+    "MUNICIPI":"Mediona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9277799384,41.4162808745 ]
+    },
+    "properties": {
+    "MUNICIPI":"Corbera de Llobregat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0212157636,41.4247531654 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tarrés"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0819124082,42.1879764532 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Pere Pescador"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4044328899,42.3464665604 ]
+    },
+    "properties": {
+    "MUNICIPI":"Molló"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0742167852,42.1339234129 ]
+    },
+    "properties": {
+    "MUNICIPI":"Viladamat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2542965049,41.1172559896 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tarragona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8955,42.33775 ]
+    },
+    "properties": {
+    "MUNICIPI":"Biure"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6402899,42.12324 ]
+    },
+    "properties": {
+    "MUNICIPI":"Mieres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.395176902,41.7593074609 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montseny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3410930492,41.2687303158 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bràfim"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.27241,41.56486 ]
+    },
+    "properties": {
+    "MUNICIPI":"Savallà del Comtat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7744645001,42.3707148711 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bellver de Cerdanya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6072091721,42.2127411929 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Jaume de Llierca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8639380284,41.6656898982 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Vicenç de Castellet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5113657203,42.2124024239 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Joan les Fonts"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9963349913,42.2511183661 ]
+    },
+    "properties": {
+    "MUNICIPI":"Far d'Empordà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0439251638,42.1169552497 ]
+    },
+    "properties": {
+    "MUNICIPI":"Isona i Conca Dellà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5179239062,40.9740523384 ]
+    },
+    "properties": {
+    "MUNICIPI":"Benifallet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6405519849,41.9928394378 ]
+    },
+    "properties": {
+    "MUNICIPI":"Navès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8254593,42.0122333 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sarrià de Ter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9541949816,42.1934728645 ]
+    },
+    "properties": {
+    "MUNICIPI":"Garrigàs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.279053775,41.4665600392 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montgat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.126232588,42.0411281258 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torroella de Montgrí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.106953584,42.0414439783 ]
+    },
+    "properties": {
+    "MUNICIPI":"Perafita"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2083296891,41.4515624579 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Coloma de Gramenet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.84014,41.86724 ]
+    },
+    "properties": {
+    "MUNICIPI":"Camarasa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9525171369,41.7743531483 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bellmunt d'Urgell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1834393611,41.5345387988 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Perpètua de Mogoda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6930110929,41.6906013782 ]
+    },
+    "properties": {
+    "MUNICIPI":"Corbins"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2734613182,42.5036211281 ]
+    },
+    "properties": {
+    "MUNICIPI":"Farrera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7930318344,41.6401471496 ]
+    },
+    "properties": {
+    "MUNICIPI":"Marganell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8476523498,41.6986163271 ]
+    },
+    "properties": {
+    "MUNICIPI":"Lloret de Mar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9864863415,41.6820571479 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ivars d'Urgell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.605217,42.3720357 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pont de Bar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0760046,42.038931 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Martí d'Albars"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7075055022,41.6354582531 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Susanna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6091539758,41.5756779759 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Margarida de Montbui"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1314717222,42.413097675 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sort"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.443127,41.597963 ]
+    },
+    "properties": {
+    "MUNICIPI":"Argençola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7127634566,42.1938625912 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Ferriol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5107242,41.7341009 ]
+    },
+    "properties": {
+    "MUNICIPI":"Calaf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.792166135,41.6741028672 ]
+    },
+    "properties": {
+    "MUNICIPI":"Blanes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5765996715,41.2413176007 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bellvei"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2345303415,41.8127978974 ]
+    },
+    "properties": {
+    "MUNICIPI":"Balenyà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3768219607,41.1423267537 ]
+    },
+    "properties": {
+    "MUNICIPI":"Altafulla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.297289907,41.6363250462 ]
+    },
+    "properties": {
+    "MUNICIPI":"Franqueses del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7017963431,41.4535458441 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Pere de Riudebitlles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8311846556,41.8929484927 ]
+    },
+    "properties": {
+    "MUNICIPI":"Campllong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3671069916,41.7493130014 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Ramon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2631258499,42.5940645223 ]
+    },
+    "properties": {
+    "MUNICIPI":"Esterri de Cardós"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.983405486,42.4237823196 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torre de Cabdella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7299751118,41.4463770584 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torrelavit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.10845212,41.5463059368 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sabadell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7388063189,41.6159189783 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alamús"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0645506465,42.3445893146 ]
+    },
+    "properties": {
+    "MUNICIPI":"Garriguella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.743659326,41.8093345127 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sils"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9610936,41.9124326 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alòs de Balaguer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1907918334,42.2009986365 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ripoll"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0241401942,41.4635823481 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fulleda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0988124,41.7870354 ]
+    },
+    "properties": {
+    "MUNICIPI":"Agramunt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7650580744,41.4964501052 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castelldans"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4241337623,42.3465428561 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montferrer i Castellbò"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1280287412,41.9518941482 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torrent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9095180955,41.137537579 ]
+    },
+    "properties": {
+    "MUNICIPI":"Argentera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6037573558,41.2677513152 ]
+    },
+    "properties": {
+    "MUNICIPI":"Arboç"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6069297595,41.6731939265 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torrefarrera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1498401824,41.7604477078 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellcir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9780377215,42.0010156639 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Maria de Merlès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6596689503,41.7508366134 ]
+    },
+    "properties": {
+    "MUNICIPI":"Albesa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5518133557,41.2554387018 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Oliva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7032034197,41.5517477575 ]
+    },
+    "properties": {
+    "MUNICIPI":"Artesa de Lleida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.825083634,41.5489293424 ]
+    },
+    "properties": {
+    "MUNICIPI":"Juneda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.956755979,41.8527898449 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cubells"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5903807865,41.1843644123 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vinebre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9107809489,41.6372682951 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rellinars"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2859037514,41.6850949324 ]
+    },
+    "properties": {
+    "MUNICIPI":"Garriga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2911297538,41.5186165932 ]
+    },
+    "properties": {
+    "MUNICIPI":"Conesa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8254079585,41.873492785 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Andreu Salou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.42394,41.30554 ]
+    },
+    "properties": {
+    "MUNICIPI":"Almatret"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.84743417,42.26845603 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cistella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1127370525,41.1982246452 ]
+    },
+    "properties": {
+    "MUNICIPI":"Almoster"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0569754424,42.1962963891 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilamacolum"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.650450894,41.0997918522 ]
+    },
+    "properties": {
+    "MUNICIPI":"Móra la Nova"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0207381395,42.1036645555 ]
+    },
+    "properties": {
+    "MUNICIPI":"Garrigoles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.78986,42.10254 ]
+    },
+    "properties": {
+    "MUNICIPI":"Porqueres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7793331322,41.3609618451 ]
+    },
+    "properties": {
+    "MUNICIPI":"Avinyonet del Penedès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2393104394,41.6085386905 ]
+    },
+    "properties": {
+    "MUNICIPI":"Lliçà d'Amunt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3064773536,41.295156058 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alió"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1111307001,41.9896299747 ]
+    },
+    "properties": {
+    "MUNICIPI":"Palau-sator"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.523378348,41.5607908382 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Martí de Tous"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.04616,41.18195 ]
+    },
+    "properties": {
+    "MUNICIPI":"Borges del Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.790249429,42.3203086377 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Llorenç de la Muga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8505108137,41.3518522883 ]
+    },
+    "properties": {
+    "MUNICIPI":"Olesa de Bonesvalls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2968125625,41.2799763943 ]
+    },
+    "properties": {
+    "MUNICIPI":"Puigpelat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9711168405,41.4110633148 ]
+    },
+    "properties": {
+    "MUNICIPI":"Palma de Cervelló"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.393327562,41.5259864648 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cabrera de Mar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0376337911,41.9592461638 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bisbal d'Empordà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9310103,41.7177661 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tossa de Mar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7140557,40.8140153 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ampolla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5610666106,41.4585778072 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sarroca de Lleida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7956381675,42.7018602236 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vielha e Mijaran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6942465172,41.6469987462 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alcoletge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.387905929,41.4773846048 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pontils"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7813222879,41.2246882547 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilella Alta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1736747,41.7477488 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ossó de Sió"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.880004349,42.418902774 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bolvir"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4028525094,41.8128864209 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5116168163,40.9070277453 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tivenys"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6951042857,42.3598855749 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montellà i Martinet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8097321833,41.8388259951 ]
+    },
+    "properties": {
+    "MUNICIPI":"Caldes de Malavella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8231456,41.7321151 ]
+    },
+    "properties": {
+    "MUNICIPI":"Manresa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8791911782,42.233174034 ]
+    },
+    "properties": {
+    "MUNICIPI":"Guardiola de Berguedà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8589787911,41.9208565106 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llambilles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6349105646,41.0567971477 ]
+    },
+    "properties": {
+    "MUNICIPI":"Benissanet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9795093178,42.2838856594 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilabertran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.3521598212,41.4183771209 ]
+    },
+    "properties": {
+    "MUNICIPI":"Granja d'Escarp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1408403131,41.4914256537 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cerdanyola del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8743690697,41.4932290958 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Esteve Sesrovires"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4447732234,41.5397919667 ]
+    },
+    "properties": {
+    "MUNICIPI":"Mataró"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5225489509,42.372937826 ]
+    },
+    "properties": {
+    "MUNICIPI":"Estamariu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7408063,41.4470074 ]
+    },
+    "properties": {
+    "MUNICIPI":"Albagés"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4001898495,40.9225158979 ]
+    },
+    "properties": {
+    "MUNICIPI":"Paüls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5139155884,41.81605363 ]
+    },
+    "properties": {
+    "MUNICIPI":"Arbúcies"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3652750769,41.2654141019 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montferri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3145405029,41.942893827 ]
+    },
+    "properties": {
+    "MUNICIPI":"Folgueroles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9074182117,42.0175804556 ]
+    },
+    "properties": {
+    "MUNICIPI":"Juià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4826325206,41.765895718 ]
+    },
+    "properties": {
+    "MUNICIPI":"Calonge de Segarra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5572342342,41.7486695507 ]
+    },
+    "properties": {
+    "MUNICIPI":"Breda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.976114,41.7002149 ]
+    },
+    "properties": {
+    "MUNICIPI":"Mura"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5077003805,42.0465778291 ]
+    },
+    "properties": {
+    "MUNICIPI":"Lladurs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0160372618,41.4136359315 ]
+    },
+    "properties": {
+    "MUNICIPI":"Molins de Rei"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7352294668,42.2284817055 ]
+    },
+    "properties": {
+    "MUNICIPI":"Saldes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6182192763,41.3264014117 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellví de la Marca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5243831781,41.562897023 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alcarràs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4173043596,41.9954847837 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tavertet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.010727337,42.0719521545 ]
+    },
+    "properties": {
+    "MUNICIPI":"Jafre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6392258054,41.7400154723 ]
+    },
+    "properties": {
+    "MUNICIPI":"Portella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5556831261,41.6658736299 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alpicat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5808567237,41.2794178261 ]
+    },
+    "properties": {
+    "MUNICIPI":"Banyeres del Penedès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3836490791,41.9471694415 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilanova de Sau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0808336094,42.1506414517 ]
+    },
+    "properties": {
+    "MUNICIPI":"Abella de la Conca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3628857402,41.3836006718 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pont d'Armentera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9105831,42.1595633 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilademuls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0012039853,41.814673772 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Cristina d'Aro"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2065830157,41.2485425435 ]
+    },
+    "properties": {
+    "MUNICIPI":"Milà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8585804156,41.3761938954 ]
+    },
+    "properties": {
+    "MUNICIPI":"Les"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9249119706,41.9163205143 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gaià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6413427839,41.7457514413 ]
+    },
+    "properties": {
+    "MUNICIPI":"Hostalric"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6068804842,41.5286521243 ]
+    },
+    "properties": {
+    "MUNICIPI":"Orpí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3092741917,41.9807005296 ]
+    },
+    "properties": {
+    "MUNICIPI":"Roda de Ter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6535126,41.919474 ]
+    },
+    "properties": {
+    "MUNICIPI":"Brunyola i Sant Martí Sapresa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8882297827,41.0999618504 ]
+    },
+    "properties": {
+    "MUNICIPI":"Colldejou"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1677248146,42.3060716726 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ribes de Freser"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6569666099,41.6132629079 ]
+    },
+    "properties": {
+    "MUNICIPI":"Calella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8046542039,41.7895530731 ]
+    },
+    "properties": {
+    "MUNICIPI":"Balaguer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9589,41.39616 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cervelló"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2526320555,41.9114814161 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilanova de l'Aguda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6517123538,41.7663828927 ]
+    },
+    "properties": {
+    "MUNICIPI":"Massanes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.34247,41.5038399 ]
+    },
+    "properties": {
+    "MUNICIPI":"Piles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.714073,41.742075 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fonollosa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9713052321,41.4500998225 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Andreu de la Barca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8427975818,41.6763623469 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellgalí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8641755449,41.1244300362 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torre de Fontaubella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9816553218,41.3770722657 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vallclara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5676955797,41.7979029223 ]
+    },
+    "properties": {
+    "MUNICIPI":"Almenar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5135682147,41.5352705974 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torres de Segre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.24832,42.59274 ]
+    },
+    "properties": {
+    "MUNICIPI":"Lladorre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5722825829,41.3880698341 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torrelles de Foix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.870647647,41.5389907148 ]
+    },
+    "properties": {
+    "MUNICIPI":"Esparreguera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6230129159,41.5309437909 ]
+    },
+    "properties": {
+    "MUNICIPI":"Carme"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0742421698,42.2582868546 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castelló d'Empúries"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6001293034,41.6196840948 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Cebrià de Vallalta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3100722122,42.1222310458 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vidrà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8427389853,41.6098211942 ]
+    },
+    "properties": {
+    "MUNICIPI":"Monistrol de Montserrat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7719901108,41.262361813 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Pere de Ribes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9649145762,42.1249497544 ]
+    },
+    "properties": {
+    "MUNICIPI":"Saus Camallera i Llampaies"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6805439299,41.9131295207 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cardona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4353016253,41.5189419057 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bellprat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8175403478,41.6722729337 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bellvís"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5828167467,42.349926521 ]
+    },
+    "properties": {
+    "MUNICIPI":"Arsèguel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5504761178,41.3741208684 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llardecans"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0138929356,41.7606040453 ]
+    },
+    "properties": {
+    "MUNICIPI":"Monistrol de Calders"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0267033787,41.5966913757 ]
+    },
+    "properties": {
+    "MUNICIPI":"Matadepera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1450338321,41.9710719148 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pals"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4923433487,41.6900880942 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Celoni"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8561361,41.1886662 ]
+    },
+    "properties": {
+    "MUNICIPI":"Porrera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9560319248,41.3480448553 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilanova de Prades"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0188001448,41.7143446934 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fuliola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5685467356,41.2007275921 ]
+    },
+    "properties": {
+    "MUNICIPI":"Calafell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.018359486,42.266256164 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vila-sacra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6752920824,41.5550332629 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pobla de Claramunt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0550711,41.36789 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Joan Despí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1771559089,41.3825106114 ]
+    },
+    "properties": {
+    "MUNICIPI":"Barcelona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0223880441,41.9445357014 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Feliu Sasserra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7395614388,42.8402190338 ]
+    },
+    "properties": {
+    "MUNICIPI":"Canejan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.55556,41.72426 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riells i Viabrea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3038998415,42.1972335405 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vallfogona de Ripollès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1621234401,41.6344700719 ]
+    },
+    "properties": {
+    "MUNICIPI":"Caldes de Montbui"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5053253478,41.3658584221 ]
+    },
+    "properties": {
+    "MUNICIPI":"Maials"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7111268,42.7557705 ]
+    },
+    "properties": {
+    "MUNICIPI":"Arres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2488154293,41.444274843 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sarral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9322776195,42.2119526469 ]
+    },
+    "properties": {
+    "MUNICIPI":"Salàs de Pallars"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8452878082,41.2326817283 ]
+    },
+    "properties": {
+    "MUNICIPI":"Poboleda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6280021133,41.7393269277 ]
+    },
+    "properties": {
+    "MUNICIPI":"Aguilar de Segarra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.487987841,41.2804650516 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bisbal del Penedès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0200205586,41.3159852718 ]
+    },
+    "properties": {
+    "MUNICIPI":"Viladecans"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7277008638,41.8204668652 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castelló de Farfanya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9105986367,42.1596296164 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bàscara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3583734716,41.5170431691 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilassar de Dalt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1980435576,41.9279041288 ]
+    },
+    "properties": {
+    "MUNICIPI":"Baronia de Rialb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3625673042,41.1952451805 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vespella de Gaià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.964182186,42.1738776107 ]
+    },
+    "properties": {
+    "MUNICIPI":"Palau de Santa Eulàlia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.02348,41.9956 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilanova de Meià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0051020236,41.2772465783 ]
+    },
+    "properties": {
+    "MUNICIPI":"Febró"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8389743968,42.3102946129 ]
+    },
+    "properties": {
+    "MUNICIPI":"Terrades"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.938581835,42.3264003566 ]
+    },
+    "properties": {
+    "MUNICIPI":"Senterada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2478747585,41.4500016728 ]
+    },
+    "properties": {
+    "MUNICIPI":"Badalona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8132806468,42.2479569605 ]
+    },
+    "properties": {
+    "MUNICIPI":"Lladó"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7259383028,41.2240909069 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilanova i la Geltrú"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6696949,41.3611011 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pacs del Penedès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3581584095,41.8417263599 ]
+    },
+    "properties": {
+    "MUNICIPI":"Biosca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8768371109,41.8631770827 ]
+    },
+    "properties": {
+    "MUNICIPI":"Balsareny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7428121513,41.88834262 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilobí d'Onyar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2690239435,41.4817465431 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tiana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8758419206,42.0271475518 ]
+    },
+    "properties": {
+    "MUNICIPI":"Celrà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6425943993,41.6066030224 ]
+    },
+    "properties": {
+    "MUNICIPI":"Òdena"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2361854011,41.5627721612 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vallfogona de Riucorb"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2481960395,41.5515265131 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montmeló"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0175370356,41.5617732469 ]
+    },
+    "properties": {
+    "MUNICIPI":"Belianes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1784158871,41.5875925603 ]
+    },
+    "properties": {
+    "MUNICIPI":"Palau-solità i Plegamans"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3566971108,41.4893959771 ]
+    },
+    "properties": {
+    "MUNICIPI":"Premià de Mar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.720962449,41.3845654612 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Fe del Penedès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7435025,41.5181456 ]
+    },
+    "properties": {
+    "MUNICIPI":"Piera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4146713,41.6258339 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montmaneu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0102715356,41.562961055 ]
+    },
+    "properties": {
+    "MUNICIPI":"Terrassa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7314543352,41.776330796 ]
+    },
+    "properties": {
+    "MUNICIPI":"Maçanet de la Selva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5700383962,41.6444230561 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rubió"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3925238246,41.6879369394 ]
+    },
+    "properties": {
+    "MUNICIPI":"Estaràs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6385993,41.8161493 ]
+    },
+    "properties": {
+    "MUNICIPI":"Algerri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.721671208,41.3211299498 ]
+    },
+    "properties": {
+    "MUNICIPI":"Olèrdola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6439469,42.215585 ]
+    },
+    "properties": {
+    "MUNICIPI":"Beuda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0554276424,41.9590846851 ]
+    },
+    "properties": {
+    "MUNICIPI":"Forallac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9858610158,41.7468820361 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellserà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0755654333,41.3859327735 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Just Desvern"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6344593379,41.6946853871 ]
+    },
+    "properties": {
+    "MUNICIPI":"Benavent de Segrià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1835947085,41.5641625477 ]
+    },
+    "properties": {
+    "MUNICIPI":"Guimerà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0168047607,42.28221609 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellar de n'Hug"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4861901749,41.2455740665 ]
+    },
+    "properties": {
+    "MUNICIPI":"Albinyana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2223881289,41.9932144294 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Cecília de Voltregà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3972030396,41.4226428171 ]
+    },
+    "properties": {
+    "MUNICIPI":"Querol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5887609588,41.560499595 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montoliu de Lleida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6417601,41.0932181 ]
+    },
+    "properties": {
+    "MUNICIPI":"Móra d'Ebre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.977037482,41.1704364191 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riudecols"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.79523,42.17784 ]
+    },
+    "properties": {
+    "MUNICIPI":"Esponellà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6175342706,41.5787365231 ]
+    },
+    "properties": {
+    "MUNICIPI":"Igualada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2844321307,41.9243226679 ]
+    },
+    "properties": {
+    "MUNICIPI":"Calldetenes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1873557743,41.4795409277 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montcada i Reixac"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.960632757,42.2673255741 ]
+    },
+    "properties": {
+    "MUNICIPI":"Figueres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6833165796,41.4134634901 ]
+    },
+    "properties": {
+    "MUNICIPI":"Soleràs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5156160994,41.0177642388 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pinell de Brai"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3050935645,41.8168008375 ]
+    },
+    "properties": {
+    "MUNICIPI":"Brull"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4460854253,41.693039169 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Maria de Palautordera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3959048994,41.1459108106 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torredembarra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0034536804,41.1207692529 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montbrió del Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2951066474,41.4936685738 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.83221,42.36815 ]
+    },
+    "properties": {
+    "MUNICIPI":"Darnius"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7521371365,41.1019034373 ]
+    },
+    "properties": {
+    "MUNICIPI":"Guiamets"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8609602,41.4274049 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cervià de les Garrigues"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7992833,42.4039412 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vajol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6475037462,42.0359573185 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Martí de Llémena"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1933386,42.198849 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llosses"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.3590626978,41.4591649367 ]
+    },
+    "properties": {
+    "MUNICIPI":"Massalcoreig"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0461769558,41.2016857865 ]
+    },
+    "properties": {
+    "MUNICIPI":"Aleixar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5549869396,41.9777564631 ]
+    },
+    "properties": {
+    "MUNICIPI":"Olius"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2387412852,42.0581983628 ]
+    },
+    "properties": {
+    "MUNICIPI":"Orís"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2329168387,41.5187474568 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Fost de Campsentelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0748267705,41.4999482476 ]
+    },
+    "properties": {
+    "MUNICIPI":"Omells de na Gaia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2957691286,42.0758420343 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Pere de Torelló"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2025100614,41.4242814289 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pira"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9327559229,41.6322019035 ]
+    },
+    "properties": {
+    "MUNICIPI":"Golmés"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9302241953,42.3158678853 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pont de Molins"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0475177489,41.7925283063 ]
+    },
+    "properties": {
+    "MUNICIPI":"Preixens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4633249738,41.922238032 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llobera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.032261898,42.0240824621 ]
+    },
+    "properties": {
+    "MUNICIPI":"Parlavà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6836748797,41.6667584354 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellfollit del Boix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7381204538,42.3777838621 ]
+    },
+    "properties": {
+    "MUNICIPI":"Prullans"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0051897987,41.4949464781 ]
+    },
+    "properties": {
+    "MUNICIPI":"Espluga Calba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9779553858,42.3070296448 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cabanes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5860161204,41.8503377879 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ivars de Noguera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1355845105,42.4441492413 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rialp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4126668127,41.2688168252 ]
+    },
+    "properties": {
+    "MUNICIPI":"Masllorenç"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9247529545,41.3302237211 ]
+    },
+    "properties": {
+    "MUNICIPI":"Begues"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1880745032,41.9108809113 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Eulàlia de Riuprimer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4185946234,41.6556554921 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Guim de Freixenet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0997036985,41.3594915011 ]
+    },
+    "properties": {
+    "MUNICIPI":"Hospitalet de Llobregat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5838768448,41.7361796992 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alguaire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0403372003,42.2423932358 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fortià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5925900532,40.6201618918 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Carles de la Ràpita"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8715596147,41.0515436915 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pratdip"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.68762,42.39055 ]
+    },
+    "properties": {
+    "MUNICIPI":"Lles de Cerdanya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7867583669,41.4240894094 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Sadurní d'Anoia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7509829839,41.1858614422 ]
+    },
+    "properties": {
+    "MUNICIPI":"Lloar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1763081832,41.980639419 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Bartomeu del Grau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.69940708,42.1988873351 ]
+    },
+    "properties": {
+    "MUNICIPI":"Besalú"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3647405102,42.2615213859 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Pau de Segúries"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5696788168,42.1450059066 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Pau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7291467633,41.6911914109 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilanova de la Barca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5186327828,41.6364862517 ]
+    },
+    "properties": {
+    "MUNICIPI":"Copons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2180943,41.79807 ]
+    },
+    "properties": {
+    "MUNICIPI":"Centelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8619801022,42.1460611217 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cercs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1702665,41.2629421 ]
+    },
+    "properties": {
+    "MUNICIPI":"Mont-ral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8921616777,41.8288900115 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llagostera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6343860015,41.0422597456 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ginestar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8390949602,41.7832491008 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santpedor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3957461033,41.771979389 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ivorra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2887683268,41.3655763801 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pla de Santa Maria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2873099918,41.608160169 ]
+    },
+    "properties": {
+    "MUNICIPI":"Granollers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8800724272,42.448739833 ]
+    },
+    "properties": {
+    "MUNICIPI":"Guils de Cerdanya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.035,41.874 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Maria d'Oló"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2849071539,42.2326602084 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Joan de les Abadesses"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9205270713,42.3724212359 ]
+    },
+    "properties": {
+    "MUNICIPI":"Capmany"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.723174575,41.2882185755 ]
+    },
+    "properties": {
+    "MUNICIPI":"Canyelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1088008875,41.1553174356 ]
+    },
+    "properties": {
+    "MUNICIPI":"Reus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7006618403,41.4039802837 ]
+    },
+    "properties": {
+    "MUNICIPI":"Puigdàlber"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7197884486,41.3942089661 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torms"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5917271444,41.5234396311 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sunyer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7785306496,41.946728424 ]
+    },
+    "properties": {
+    "MUNICIPI":"Viver i Serrateix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2952253372,41.2494164263 ]
+    },
+    "properties": {
+    "MUNICIPI":"Nulles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2769104455,41.7328488192 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tarroja de Segarra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9549681158,42.1434956367 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilaür"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3457355254,41.50818033 ]
+    },
+    "properties": {
+    "MUNICIPI":"Premià de Dalt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5431801383,41.8286273479 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pinós"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3990279815,41.279739535 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rodonyà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6843029615,42.1259334132 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Miquel de Campmajor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4833567442,41.5745035522 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Andreu de Llavaneres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.272543456,41.173996332 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pallaresos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7839801111,41.7813451992 ]
+    },
+    "properties": {
+    "MUNICIPI":"Callús"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4005788373,41.5555804387 ]
+    },
+    "properties": {
+    "MUNICIPI":"Argentona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0409708384,42.1748243945 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torroella de Fluvià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9751242587,41.4277841543 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vinaixa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3881845486,42.1354731774 ]
+    },
+    "properties": {
+    "MUNICIPI":"Odèn"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7165905908,42.4762668035 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilaller"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.3167967819,40.9538376162 ]
+    },
+    "properties": {
+    "MUNICIPI":"Horta de Sant Joan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8180608,42.2035507 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vallcebre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.901457284,41.5160669381 ]
+    },
+    "properties": {
+    "MUNICIPI":"Abrera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8793705342,41.6064996679 ]
+    },
+    "properties": {
+    "MUNICIPI":"Miralcamp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4685311151,40.6555242196 ]
+    },
+    "properties": {
+    "MUNICIPI":"Godall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5395197339,41.6113917178 ]
+    },
+    "properties": {
+    "MUNICIPI":"Arenys de Munt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.743202726,41.9655087237 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bescanó"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5755653834,41.7382011193 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Pere Sallavinera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.368362597,42.0350761892 ]
+    },
+    "properties": {
+    "MUNICIPI":"Esquirol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7655509886,41.1639087613 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bellmunt del Priorat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9307239008,41.1461049333 ]
+    },
+    "properties": {
+    "MUNICIPI":"Duesaigües"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7978194374,42.1877850824 ]
+    },
+    "properties": {
+    "MUNICIPI":"Crespià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5649962339,41.9435101781 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riner"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8113152984,41.2480780453 ]
+    },
+    "properties": {
+    "MUNICIPI":"Morera de Montsant"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2770867205,42.2657902604 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ogassa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9821548406,42.4649598704 ]
+    },
+    "properties": {
+    "MUNICIPI":"Llívia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3262935518,41.1754600113 ]
+    },
+    "properties": {
+    "MUNICIPI":"Catllar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2981191652,41.53178193 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vallromanes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4876352183,41.250705944 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riba-roja d'Ebre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8660041,42.2502121 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gisclareny"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8827889804,42.0335140331 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gironella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9318337,41.3879476 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vallirana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9711496267,41.6482688722 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellnou de Seana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3277786338,42.2085463362 ]
+    },
+    "properties": {
+    "MUNICIPI":"Organyà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8113091,41.5021586 ]
+    },
+    "properties": {
+    "MUNICIPI":"Masquefa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9567237542,41.527004659 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ullastrell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9918959727,41.7892959149 ]
+    },
+    "properties": {
+    "MUNICIPI":"Calders"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5975887841,41.0380213354 ]
+    },
+    "properties": {
+    "MUNICIPI":"Miravet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3266645926,41.9531659798 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tavèrnoles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6628867798,41.4620598971 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Quintí de Mediona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1627453,41.3747828 ]
+    },
+    "properties": {
+    "MUNICIPI":"Montblanc"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1154035219,41.6931569239 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gallifa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2681069384,42.0575025302 ]
+    },
+    "properties": {
+    "MUNICIPI":"Peramola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9572379037,41.0840936966 ]
+    },
+    "properties": {
+    "MUNICIPI":"Mont-roig del Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9906226,41.9561701 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cruïlles Monells i Sant Sadurní de l'Heura"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3130592329,42.0662792375 ]
+    },
+    "properties": {
+    "MUNICIPI":"Oliana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8943237567,41.8242067084 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sallent"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7605329449,41.7172517301 ]
+    },
+    "properties": {
+    "MUNICIPI":"Térmens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9532638193,42.2338584978 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Llogaia d'Àlguema"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8720057751,42.362661321 ]
+    },
+    "properties": {
+    "MUNICIPI":"Das"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9595245,41.4174888 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pallejà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0733273872,42.0681648458 ]
+    },
+    "properties": {
+    "MUNICIPI":"Lluçà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3255929206,41.9225256859 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Julià de Vilatorta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7930083428,41.9745711596 ]
+    },
+    "properties": {
+    "MUNICIPI":"Salt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1562560666,41.5574977172 ]
+    },
+    "properties": {
+    "MUNICIPI":"Polinyà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7711839292,42.0533614682 ]
+    },
+    "properties": {
+    "MUNICIPI":"Espunyola"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.6724457008,41.2081850749 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cubelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2470969,41.6238423 ]
+    },
+    "properties": {
+    "MUNICIPI":"Granyena de Segarra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7385263259,41.3367880202 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bellaguarda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2179985677,41.4300852616 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Adrià de Besòs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8262600449,42.3456389893 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riu de Cerdanya"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.4145391636,41.1786677017 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pobla de Montornès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0807466005,41.5330652898 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Quirze del Vallès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9873340088,42.0842168264 ]
+    },
+    "properties": {
+    "MUNICIPI":"Colomers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8319083929,41.5801736197 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torregrossa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2880585361,41.7845899542 ]
+    },
+    "properties": {
+    "MUNICIPI":"Guissona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9812857375,41.3589182277 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torrelles de Llobregat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4058981622,41.5946878115 ]
+    },
+    "properties": {
+    "MUNICIPI":"Dosrius"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0392485389,41.1136659242 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vinyols i els Arcs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5513514,41.5795439 ]
+    },
+    "properties": {
+    "MUNICIPI":"Arenys de Mar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7060407797,41.7276384349 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rajadell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3629514121,41.3463232354 ]
+    },
+    "properties": {
+    "MUNICIPI":"Aiguamúrcia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6213344267,41.6001564297 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Pol de Mar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7492604463,41.6671142102 ]
+    },
+    "properties": {
+    "MUNICIPI":"Palafolls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5670995116,41.1808605212 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ascó"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.24502,41.62327 ]
+    },
+    "properties": {
+    "MUNICIPI":"Granyanella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.877774049,41.8052177063 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sentiu de Sió"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8591944,42.3322388 ]
+    },
+    "properties": {
+    "MUNICIPI":"Boadella i les Escaules"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7044551757,41.703894759 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torrelameu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7415123575,41.6458309092 ]
+    },
+    "properties": {
+    "MUNICIPI":"Malgrat de Mar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5106076945,41.6474981815 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vallgorguina"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1072859944,42.0098932276 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fontanilles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5038744298,40.8224848136 ]
+    },
+    "properties": {
+    "MUNICIPI":"Roquetes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6219197836,41.9672129686 ]
+    },
+    "properties": {
+    "MUNICIPI":"Cellera de Ter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3390501508,41.5842519216 ]
+    },
+    "properties": {
+    "MUNICIPI":"Talavera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8246009553,41.4680668532 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Llorenç d'Hortons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.085904663,41.3765939787 ]
+    },
+    "properties": {
+    "MUNICIPI":"Esplugues de Llobregat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8016694179,41.8937428292 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riudellots de la Selva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3616912169,41.1649287318 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riera de Gaià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.591017908,42.1751962009 ]
+    },
+    "properties": {
+    "MUNICIPI":"Coma i la Pedra"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1592745709,41.4378976503 ]
+    },
+    "properties": {
+    "MUNICIPI":"Blancafort"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5206321964,40.8109989429 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tortosa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.312936567,41.2267398294 ]
+    },
+    "properties": {
+    "MUNICIPI":"Renau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9486749315,41.2421931256 ]
+    },
+    "properties": {
+    "MUNICIPI":"Arbolí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4730686336,41.1623859466 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fatarella"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2136958626,41.1530071925 ]
+    },
+    "properties": {
+    "MUNICIPI":"Constantí"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9529203046,42.0715585725 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Jordi Desvalls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1605708716,42.1120025091 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sora"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7327656869,41.0424048017 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tivissa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2551227,41.1901196 ]
+    },
+    "properties": {
+    "MUNICIPI":"Perafort"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.899973748,41.449839959 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellví de Rosanes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4110664064,41.4638463898 ]
+    },
+    "properties": {
+    "MUNICIPI":"Seròs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.5499703639,41.2311326173 ]
+    },
+    "properties": {
+    "MUNICIPI":"Flix"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2830212659,41.9003981476 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Eugènia de Berga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1369718442,41.2151675679 ]
+    },
+    "properties": {
+    "MUNICIPI":"Selva del Camp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3748348585,41.2290142563 ]
+    },
+    "properties": {
+    "MUNICIPI":"Salomó"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7332889701,41.5434430979 ]
+    },
+    "properties": {
+    "MUNICIPI":"Puigverd de Lleida"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9609074194,41.5024195206 ]
+    },
+    "properties": {
+    "MUNICIPI":"Omellons"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.3730143561,40.7358107621 ]
+    },
+    "properties": {
+    "MUNICIPI":"Mas de Barberans"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3184652586,41.9923366806 ]
+    },
+    "properties": {
+    "MUNICIPI":"Masies de Roda"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.896044,42.166879 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tremp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7107005563,41.4180738139 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pla del Penedès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.3421299444,42.2938603035 ]
+    },
+    "properties": {
+    "MUNICIPI":"Valls d'Aguilar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.7885342115,42.4477297732 ]
+    },
+    "properties": {
+    "MUNICIPI":"Meranges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.028162085,42.3792163766 ]
+    },
+    "properties": {
+    "MUNICIPI":"Rabós"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9302377399,42.0957519187 ]
+    },
+    "properties": {
+    "MUNICIPI":"Viladasens"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9773147786,41.7382261325 ]
+    },
+    "properties": {
+    "MUNICIPI":"Talamanca"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8371571801,41.8341587689 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castellnou de Bages"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2512286537,41.7636228236 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Martí de Centelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.007632623,42.3080278276 ]
+    },
+    "properties": {
+    "MUNICIPI":"Peralada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9029077377,42.3516090915 ]
+    },
+    "properties": {
+    "MUNICIPI":"Alp"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0529785501,41.7016514529 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tornabous"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5276594594,41.5197203038 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Maria de Miralles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.3894837638,41.6524850281 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gimenells i el Pla de la Font"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9934954,42.1056905 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilopriu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.226960149,42.5635615015 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vall de Cardós"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2872839632,41.874370833 ]
+    },
+    "properties": {
+    "MUNICIPI":"Taradell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0468590803,42.0603594964 ]
+    },
+    "properties": {
+    "MUNICIPI":"Verges"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8054902,41.745676 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Joan de Vilatorrada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1035417237,42.0284429597 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gualta"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.96909,42.24997 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pobla de Segur"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2292202246,41.6523554235 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Eulàlia de Ronçana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9272974412,41.663384046 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vila-sana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5570843984,41.9455737881 ]
+    },
+    "properties": {
+    "MUNICIPI":"Osor"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.4052196994,40.9837083508 ]
+    },
+    "properties": {
+    "MUNICIPI":"Prat de Comte"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3121132192,42.3316720724 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilallonga de Ter"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2083448,41.6792814 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bigues i Riells"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7371617989,42.0333966746 ]
+    },
+    "properties": {
+    "MUNICIPI":"Canet d'Adri"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.582129,41.5883891 ]
+    },
+    "properties": {
+    "MUNICIPI":"Canet de Mar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7313128474,41.1265357105 ]
+    },
+    "properties": {
+    "MUNICIPI":"Masroig"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0944247363,42.0809692453 ]
+    },
+    "properties": {
+    "MUNICIPI":"Bellcaire d'Empordà"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.671388309,41.734826088 ]
+    },
+    "properties": {
+    "MUNICIPI":"Fogars de la Selva"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4591807511,42.1177626671 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vall d'en Bas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1172178062,42.3158116964 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0160603,41.3689027 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Coloma de Cervelló"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.7187257286,41.7015064905 ]
+    },
+    "properties": {
+    "MUNICIPI":"Tordera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9767302235,41.2801450326 ]
+    },
+    "properties": {
+    "MUNICIPI":"Castelldefels"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.85692,41.67836 ]
+    },
+    "properties": {
+    "MUNICIPI":"Poal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.2476906078,41.2842672978 ]
+    },
+    "properties": {
+    "MUNICIPI":"Valls"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1217445258,41.7778036267 ]
+    },
+    "properties": {
+    "MUNICIPI":"Puigverd d'Agramunt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.9039523913,41.75149538 ]
+    },
+    "properties": {
+    "MUNICIPI":"Navarcles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.7275900352,42.7494831207 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vilamòs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.1391469476,41.5616718209 ]
+    },
+    "properties": {
+    "MUNICIPI":"Ciutadilla"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.177845977,41.3182509404 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.0309926,42.0070702 ]
+    },
+    "properties": {
+    "MUNICIPI":"Prats de Lluçanès"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.208279959,41.1920412823 ]
+    },
+    "properties": {
+    "MUNICIPI":"Morell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.418487233,41.5529783531 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Coloma de Queralt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0003422175,42.3585137521 ]
+    },
+    "properties": {
+    "MUNICIPI":"Mollet de Peralada"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2537001025,41.5198593948 ]
+    },
+    "properties": {
+    "MUNICIPI":"Santa Maria de Martorelles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.6488469389,41.1367266095 ]
+    },
+    "properties": {
+    "MUNICIPI":"Garcia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1262819295,41.8804845466 ]
+    },
+    "properties": {
+    "MUNICIPI":"Vall-llobrega"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.4069101699,42.1886591234 ]
+    },
+    "properties": {
+    "MUNICIPI":"Riudaura"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9921321794,42.156027089 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Mori"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.5018473344,41.7320243986 ]
+    },
+    "properties": {
+    "MUNICIPI":"Gualba"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.8102046092,41.2138889008 ]
+    },
+    "properties": {
+    "MUNICIPI":"Torroja del Priorat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9733770484,42.0204917933 ]
+    },
+    "properties": {
+    "MUNICIPI":"Pera"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9919929624,42.1720998003 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Miquel de Fluvià"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.16444,41.68896 ]
+    },
+    "properties": {
+    "MUNICIPI":"Sant Feliu de Codines"
+    }
+  }
+]
+}

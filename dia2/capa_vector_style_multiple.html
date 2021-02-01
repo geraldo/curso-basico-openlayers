@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .map {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+    <title>OpenLayers: Vector Data</title>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <script type="text/javascript">
+      var shadowStyle = new ol.style.Style({
+        stroke: new ol.style.Stroke({
+          color: [0, 0, 127, 0.15],
+          width: 8
+        }),
+        zIndex: 1
+      });
+      var countryStyle = new ol.style.Style({
+        fill: new ol.style.Fill({
+          color: [203, 194, 185, 1]
+        }),
+        stroke: new ol.style.Stroke({
+          color: [101, 95, 90, 1],
+          width: 1,
+          lineCap: 'round'
+        }),
+        zIndex: 2
+      });
+
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              format: new ol.format.GeoJSON(),
+              url: 'countries.json'
+            }),
+            style: [shadowStyle, countryStyle]
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              format: new ol.format.GeoJSON(),
+              url: 'capitals.json'
+            }),
+            style: new ol.style.Style({
+              image: new ol.style.Circle({
+                stroke: new ol.style.Stroke({
+                  width: 2,
+                  color: "#ff0000"
+                }),
+                fill: new ol.style.Fill({
+                  color: "#000"
+                }),
+                radius: 3
+              })
+            })
+          })
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([0, 0]),
+          zoom: 0
+        })
+      });
+    </script>
+  </body>
+</html>
