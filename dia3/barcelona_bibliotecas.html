@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .map {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+    <title>OpenLayers: Bibliotecas</title>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <script type="text/javascript">
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.XYZ({
+              url: 'https://{1-4}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png',
+            })
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              format: new ol.format.TopoJSON(),
+              url: 'districtes.json'
+            }),
+            style: new ol.style.Style({
+              stroke: new ol.style.Stroke({
+                color: '#000',
+                width: 1.5,
+              })
+            })
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              format: new ol.format.TopoJSON(),
+              url: 'barris.json'
+            }),
+            style: new ol.style.Style({
+              stroke: new ol.style.Stroke({
+                color: '#888',
+                width: 0.75,
+              })
+            })
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              format: new ol.format.GeoJSON(),
+              url: 'bibliotecas.json'
+            }),
+            style: function(feature, resolution) {
+              return new ol.style.Style({
+                image: new ol.style.Circle({
+                  stroke: new ol.style.Stroke({
+                    width: 4,
+                    color: "#ff0000"
+                  }),
+                  fill: new ol.style.Fill({
+                    color: "#000"
+                  }),
+                  radius: 5
+                }),
+                text: new ol.style.Text({
+                  text: feature.get('name'),
+                  font: '12px sans-serif',
+                  stroke: new ol.style.Stroke({
+                    color: '#fff',
+                    width: 3
+                  }),
+                  offsetY: 12
+                })
+              })
+            }
+          }),
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([ 2.158270438964842, 41.406126270347386 ]),
+          zoom: 13
+        })
+      });
+    </script>
+  </body>
+</html>

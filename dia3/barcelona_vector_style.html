@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .map {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+    <title>OpenLayers: Estilos para capas vectoriales de datos</title>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <script type="text/javascript">
+      let selectedFeature = null;
+
+      let vectorStyle = new ol.style.Style({
+        stroke: new ol.style.Stroke({
+          color: '#3399CC',
+          width: 1.25
+        }),
+        fill: new ol.style.Fill({
+          color: 'rgba(255,255,255,0.4)'
+        }),
+      });
+
+      let textStyle = new ol.style.Text({
+        font: '12px sans-serif',
+        stroke: new ol.style.Stroke({
+          color: '#fff',
+          width: 3
+        }),
+        overflow: true
+      });
+
+      let vectorHighlightStyle = new ol.style.Style({
+        stroke: new ol.style.Stroke({
+          color: '#f00',
+          width: 2,
+        }),
+        fill: new ol.style.Fill({
+          color: 'rgba(255,255,255,0.4)',
+        }),
+        text: textStyle,
+        zIndex: 1
+      });
+
+      function vectorStyleFunction(feature, resolution) {
+        if (selectedFeature === feature.get('NOM')) {
+          textStyle.setText(feature.get('NOM'));
+          vectorHighlightStyle.setText(textStyle);
+          return vectorHighlightStyle;
+        }
+        else {
+          return vectorStyle;
+        }
+      }
+
+      let barrisLayer = new ol.layer.Vector({
+        source: new ol.source.Vector({
+          format: new ol.format.TopoJSON(),
+          url: 'barris.json'
+        }),
+        style: vectorStyleFunction
+      })
+
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.XYZ({
+              url: 'https://{1-4}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png',
+            })
+          }),
+          barrisLayer
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([2.183333, 41.383333]),
+          zoom: 12
+        })
+      });
+
+      // select interaction working on "click"
+      let selectMove = new ol.interaction.Select({
+        condition: ol.events.condition.pointerMove,
+        layers: [
+          barrisLayer
+        ],
+        style: vectorStyleFunction
+      });
+      
+      map.addInteraction(selectMove);
+      selectMove.on('select', function(evt) {
+        if (evt.selected.length > 0)
+          selectedFeature = evt.selected[0].get("NOM");
+        else
+          selectedFeature = null;
+      });
+
+      // info de feature
+      map.on('click', function(evt) {
+        map.forEachFeatureAtPixel(evt.pixel, function(feature) {
+          console.log(feature.get('NOM'));
+        });
+      });
+
+      // Cambiar flecha de ratón por mano
+      map.on('pointermove', function(evt) {
+        map.getTargetElement().style.cursor = map.hasFeatureAtPixel(evt.pixel) ? 'pointer' : '';
+      });
+    </script>
+  </body>
+</html>

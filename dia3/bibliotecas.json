@@ -1,0 +1,378 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-02-01T10:55:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/82781678",
+        "access": "yes",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "104",
+        "addr:street": "Carrer del Torrent de l'Olla",
+        "amenity": "library",
+        "name": "Biblioteca Vila de Gràcia",
+        "opening_hours": "Mo,Th 16:00-21:00; Tu,Fr 10:00-14:00,16:00-21:00; We 10:00-21:00, Sa 10:00,14:00",
+        "operator": "Diputació de Barcelona",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1583119,
+          41.4015124
+        ]
+      },
+      "id": "node/82781678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/605504120",
+        "access": "yes",
+        "addr:housenumber": "47",
+        "addr:street": "Carrer del Carme",
+        "amenity": "library",
+        "name": "Biblioteca Sant Pau i Santa Creu",
+        "operator": "Diputació de Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1694612,
+          41.3812356
+        ]
+      },
+      "id": "node/605504120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/847723430",
+        "access": "yes",
+        "addr:housenumber": "76-80",
+        "addr:street": "Carrer de les Camèlies",
+        "amenity": "library",
+        "name": "Biblioteca Guinardó - Mercè Rodoreda",
+        "operator": "Diputació de Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1655138,
+          41.4142202
+        ]
+      },
+      "id": "node/847723430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1206798748",
+        "access": "yes",
+        "addr:housenumber": "480",
+        "addr:street": "Carrer de Provença",
+        "amenity": "library",
+        "name": "Biblioteca Sagrada Família-Josep M. Ainaud de Lasarte",
+        "operator": "Diputació de Barcelona",
+        "website": "http://w3.bcn.es/V51/Home/V51HomeLinkPl/0,3989,526653874,00.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1763365,
+          41.405752
+        ]
+      },
+      "id": "node/1206798748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1316035400",
+        "access": "yes",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "58",
+        "addr:postcode": "08028",
+        "addr:street": "Travessera de les Corts",
+        "amenity": "library",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Biblioteca Les Corts - Miquel Llongueras",
+        "operator": "Diputació de Barcelona",
+        "phone": "+34934493107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1217376,
+          41.377865
+        ]
+      },
+      "id": "node/1316035400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339109146",
+        "access": "yes",
+        "addr:housenumber": "34",
+        "addr:street": "Ronda de la Guineueta Vella",
+        "amenity": "library",
+        "name": "Biblioteca Canyelles",
+        "operator": "Diputació de Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1642598,
+          41.4437618
+        ]
+      },
+      "id": "node/1339109146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339109153",
+        "access": "yes",
+        "addr:housenumber": "145-147",
+        "addr:street": "Carrer del Comte d'Urgell",
+        "amenity": "library",
+        "name": "Biblioteca Esquerra de l'Eixample - Agustí Centelles",
+        "operator": "Diputació de Barcelona",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1520533,
+          41.3868364
+        ]
+      },
+      "id": "node/1339109153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339109155",
+        "access": "yes",
+        "addr:housenumber": "12-14",
+        "addr:street": "Carrer de Ribes",
+        "amenity": "library",
+        "member_of": "CodeClub Catalunya",
+        "name": "Biblioteca Fort Pienc",
+        "operator": "Diputació de Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1823872,
+          41.3954122
+        ]
+      },
+      "id": "node/1339109155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339109157",
+        "access": "yes",
+        "addr:housenumber": "10",
+        "addr:street": "Carrer d'Amnistia Internacional",
+        "amenity": "library",
+        "name": "Biblioteca Francesc Candel",
+        "operator": "Diputació de Barcelona",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1362105,
+          41.361716
+        ]
+      },
+      "id": "node/1339109157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339117894",
+        "access": "yes",
+        "addr:housenumber": "30",
+        "addr:street": "la Rambla",
+        "amenity": "library",
+        "internet_access": "wlan",
+        "name": "Biblioteca Gòtic - Andreu Nin",
+        "operator": "Diputació de Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1760758,
+          41.3787139
+        ]
+      },
+      "id": "node/1339117894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339597915",
+        "access": "yes",
+        "addr:housenumber": "2",
+        "addr:street": "Plaça Major de Nou Barris",
+        "amenity": "library",
+        "name": "Biblioteca Nou Barris",
+        "operator": "Diputació de Barcelona",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1705836,
+          41.4366923
+        ]
+      },
+      "id": "node/1339597915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339597916",
+        "access": "yes",
+        "addr:housenumber": "34",
+        "addr:street": "Carrer de Blai",
+        "amenity": "library",
+        "name": "Biblioteca Poble Sec-Francesc Boix",
+        "operator": "Diputació de Barcelona",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1640025,
+          41.3739581
+        ]
+      },
+      "id": "node/1339597916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1339862159",
+        "access": "yes",
+        "addr:housenumber": "215",
+        "addr:postcode": "08020",
+        "addr:street": "Carrer de la Selva de Mar",
+        "amenity": "library",
+        "email": "b.barcelona.smp@diba.cat",
+        "name": "Biblioteca Sant Martí de Provençals",
+        "name:ca": "Biblioteca Sant Martí de Provençals",
+        "name:en": "Sant Martí de Provençals Library",
+        "name:es": "Biblioteca Sant Martí de Provençals",
+        "opening_hours": "Sa 10:00-14:00; Mo-We, Fr 15:30-20:30; Th 10:00-14:00, 15:30-20:30",
+        "operator": "Diputació de Barcelona",
+        "phone": "+34 932 56 57 75",
+        "website": "http://ajuntament.barcelona.cat/biblioteques/bibsantmarti/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1986015,
+          41.4165411
+        ]
+      },
+      "id": "node/1339862159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1340026244",
+        "access": "yes",
+        "addr:housenumber": "1",
+        "addr:street": "Carrer del Vent",
+        "amenity": "library",
+        "name": "Biblioteca Horta - Can Mariner",
+        "operator": "Diputació de Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1605592,
+          41.4311754
+        ]
+      },
+      "id": "node/1340026244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1340026248",
+        "access": "yes",
+        "addr:housenumber": "16-34",
+        "addr:street": "Carrer dels Reis Catòlics",
+        "amenity": "library",
+        "name": "Biblioteca Collserola - Josep Miracle",
+        "operator": "Diputació de Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1027829,
+          41.4153461
+        ]
+      },
+      "id": "node/1340026248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4288485810",
+        "access": "yes",
+        "addr:housenumber": "1-3",
+        "addr:street": "Carrer del Camp del Ferro",
+        "amenity": "library",
+        "name": "Biblioteca de la Sagrera-Marina Clotet",
+        "note": "Gestiona: Diputació de Barcelona - Consorci de Biblioteques de Barcelona",
+        "operator": "Diputació de Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1937425,
+          41.4256128
+        ]
+      },
+      "id": "node/4288485810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7110443458",
+        "addr:city": "Barcelona",
+        "addr:postcode": "08028",
+        "amenity": "library",
+        "name": "Arxiu Històric de la Diputació de Barcelona",
+        "opening_hours": "Mo-Fr 10:00-14:00",
+        "operator": "Diputació de Barcelona",
+        "phone": "+34 93 402 26 65",
+        "website": "https://www.diba.cat/ca/web/arxiu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.125503,
+          41.3831884
+        ]
+      },
+      "id": "node/7110443458"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .map {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+    <title>OpenLayers: Animaci&oacute;n</title>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <script type="text/javascript">
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.XYZ({
+              url: 'https://{1-4}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png',
+            })
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              format: new ol.format.GeoJSON(),
+              url: 'rios.json'
+            })
+          })
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([0, 0]),
+          zoom: 2
+        })
+      });
+
+      /* 
+        cambiar ratón cuando se dedecta un feature
+      */
+      map.on('pointermove', function(evt) {
+        map.getTargetElement().style.cursor = map.hasFeatureAtPixel(map.getEventPixel(evt.originalEvent), {hitTolerance: 5}) ? 'pointer' : '';
+      });
+
+      /* 
+        zoom a la posición del click
+      */
+      map.on('singleclick', function(evt) {
+
+        map.forEachFeatureAtPixel(evt.pixel, function(feature, layer) {
+
+          map.getView().animate({
+            zoom: map.getView().getZoom()+1, 
+            center: evt.coordinate
+          });
+        });
+      });
+
+      /* 
+        zoom in cuando el mapa esta listo
+      */
+      let first = true;
+      map.on('postrender', function(){
+
+        if (first) {
+
+          map.getView().animate({
+            center: ol.proj.fromLonLat([-1, 42]),
+            zoom: 8,
+            duration: 5000,
+            easing: ol.easing.easeOut
+          });
+
+          first = false;
+        }
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .map {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+      }
+      .ol-scale-line {
+        right: 8px;
+        left: auto;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+    <title>OpenLayers: Controles</title>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <script type="text/javascript">
+
+      var map = new ol.Map({
+        target: 'map',
+        /*controls: ol.control.defaults({
+          zoom: false,
+          attribution: false,
+          rotate: false
+        })*/
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.XYZ({
+              url: 'https://{1-4}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png'
+            })
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              format: new ol.format.TopoJSON(),
+              url: 'districtes.json'
+            })
+          }),
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([2.183333, 41.383333]),
+          zoom: 12
+        })
+      });
+
+      // línea de escala
+      let scaleLine = new ol.control.ScaleLine({
+        units: 'metric',
+        minWidth: 100
+      });
+      map.addControl(scaleLine);
+
+      // zoom a area
+      let zoomToExtentControl = new ol.control.ZoomToExtent({
+        extent: ol.proj.transformExtent([ 2.0537286604003904, 41.46802692765104 , 2.2432428205566404, 41.31580776736919 ], 'EPSG:4326', 'EPSG:3857')
+      });
+      map.addControl(zoomToExtentControl);
+
+      // overview map
+      let overviewMapControl = new ol.control.OverviewMap({
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+        ],
+      });
+      map.addControl(overviewMapControl);
+
+      /*map.on('click', function(evt) {
+        console.log(ol.proj.toLonLat(evt.coordinate));
+      });*/
+    </script>
+  </body>
+</html>

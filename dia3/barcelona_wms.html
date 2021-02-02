@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .map {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+    <title>OpenLayers: Capas WMS</title>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <script type="text/javascript">
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          // topográfico ICGC
+          new ol.layer.Tile({
+            source: new ol.source.TileWMS({
+              url: 'http://geoserveis.icc.cat/icc_mapesmultibase/utm/wms/service?',
+              params: {'LAYERS': 'topogris', 'VERSION': '1.1.1'}
+            })
+          }),
+
+          // catastro
+          /*new ol.layer.Tile({
+            source: new ol.source.TileWMS({
+              url: 'http://ovc.catastro.meh.es/Cartografia/WMS/ServidorWMS.aspx',
+              params: {
+                'LAYERS': 'catastro', 
+                'TILED': true,
+                'SRS': 'EPSG:3857'
+              },
+            })
+          })*/
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([ 2.027665411390514, 41.36152437117059 ]),
+          zoom: 18
+        })
+      });
+    </script>
+  </body>
+</html>
