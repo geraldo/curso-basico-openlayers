@@ -10,19 +10,16 @@ Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pe
 
 ## Temario
 
-- Día 1: Conceptos básicos y primeros mapas con capas ráster
-- Día 2: Capas vectoriales y su diseño, overlays y interacciones
-- Día 3: Estilos dinámicos, capas WMS, proyecciones y controles
-- Día 4: Build para entornos de producción, animaciones y plugins
+- Día 1: Utilizando qgis2web para exportar un mapa desde QGIS. Conceptos básicos para poner nuestro primer mapa en línea usando OpenStreetMap y capas ráster.
+- Día 2: GeoJSON y TopoJSON como formatos para añadir objetos geográficos al mapa. Estilos para puntos, líneas y polígonos. Funciones de estilos para aplicar estilos dinámicamente.
+- Día 3: Capturar eventos para interactuar con el mapa. Animaciones de la vista. Extender la funcionalidad de OpenLayers con plugins como Layer Switcher.
+- Día 4: Controles para elementos fijos y Overlays para elementos georeferenciados. Añadir capas WMS y teselas vectoriales.
 
 ## Descarga material
 
-Antes de empezar cada clase hay que descarregar los ficheros comprimidos en zip, y descomprimirlos. Contienen la presentación de la clase y los ejemplos presentadas en clase.
+Antes de empezar cada clase hay que descarregar los ficheros comprimidos en zip. Contienen la presentación y los ejemplos presentadas en clase.
 
 - Día 1: https://geraldkogler.com/material/curso-basico-openlayers-dia1.zip
-- Día 2: https://geraldkogler.com/material/curso-basico-openlayers-dia2.zip
-- Día 3: https://geraldkogler.com/material/curso-basico-openlayers-dia3.zip
-- Día 4: https://geraldkogler.com/material/curso-basico-openlayers-dia4.zip
 
 ## Dudas y comentarios
 
