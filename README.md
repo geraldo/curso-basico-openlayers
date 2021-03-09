@@ -20,6 +20,7 @@ Les preguntes es fan principalment pel xat. Si no disposeu d’aquesta icona, pe
 Antes de empezar cada clase hay que descarregar los ficheros comprimidos en zip. Contienen la presentación y los ejemplos presentadas en clase.
 
 - Día 1: https://geraldkogler.com/material/curso-basico-openlayers-dia1.zip
+- Día 2: https://geraldkogler.com/material/curso-basico-openlayers-dia2.zip
 
 ## Dudas y comentarios
 
