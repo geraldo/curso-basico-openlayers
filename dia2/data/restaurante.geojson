@@ -1,0 +1,2081 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-03-10T10:21:42Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/353895113",
+        "amenity": "restaurant",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1929066,
+              41.3796411
+            ],
+            [
+              2.1928562,
+              41.3796585
+            ],
+            [
+              2.1927473,
+              41.3794975
+            ],
+            [
+              2.1928057,
+              41.3794768
+            ],
+            [
+              2.1929066,
+              41.3796411
+            ]
+          ]
+        ]
+      },
+      "id": "way/353895113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/392926648",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "38",
+        "addr:postcode": "08003",
+        "addr:street": "Passeig Marítim de la Barceloneta",
+        "amenity": "restaurant",
+        "amenity_1": "nightclub",
+        "building": "yes",
+        "contact:website": "www.pachabarcelona.es",
+        "name": "Pacha"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1970425,
+              41.385788
+            ],
+            [
+              2.1969896,
+              41.385748
+            ],
+            [
+              2.1970405,
+              41.3857101
+            ],
+            [
+              2.1970935,
+              41.3857501
+            ],
+            [
+              2.1970425,
+              41.385788
+            ]
+          ]
+        ]
+      },
+      "id": "way/392926648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/405622537",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "32",
+        "addr:postcode": "08003",
+        "addr:street": "Passeig Marítim de la Barceloneta",
+        "amenity": "restaurant",
+        "amenity_1": "nightclub",
+        "building": "yes",
+        "name": "Carpe Diem Lounge Club (CDLC)",
+        "website": "www.cdlcbarcelona.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1962905,
+              41.3850168
+            ],
+            [
+              2.1962117,
+              41.3849643
+            ],
+            [
+              2.1962488,
+              41.3849329
+            ],
+            [
+              2.1963277,
+              41.3849855
+            ],
+            [
+              2.1962905,
+              41.3850168
+            ]
+          ]
+        ]
+      },
+      "id": "way/405622537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/446003262",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Can Ramonet (seating)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1888769,
+              41.380759
+            ],
+            [
+              2.1889017,
+              41.3806953
+            ],
+            [
+              2.1890507,
+              41.3807279
+            ],
+            [
+              2.189028,
+              41.3807916
+            ],
+            [
+              2.1889569,
+              41.3807763
+            ],
+            [
+              2.1888769,
+              41.380759
+            ]
+          ]
+        ]
+      },
+      "id": "way/446003262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/674680026",
+        "addr:housenumber": "1",
+        "addr:postcode": "08003",
+        "addr:street": "Pl Mar",
+        "amenity": "restaurant",
+        "name": "Cafeteria Restaurant Buenas Migas *Plaça del Mar",
+        "website": "http://www.buenasmigas.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1894951,
+          41.3753402
+        ]
+      },
+      "id": "node/674680026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/674680688",
+        "addr:housenumber": "1-4",
+        "addr:postcode": "08003",
+        "addr:street": "Plaça del Mar",
+        "amenity": "restaurant",
+        "contact:email": "herrapel@yahoo.es",
+        "contact:phone": "+34 932219082",
+        "name": "Restaurant Kaiku",
+        "opening_hours": "Tu-Su 13:00-15:45",
+        "phone": "+34 93 229 082",
+        "smoking": "no",
+        "source": "Trabajo de campo",
+        "website": "http://restaurantkaiku.cat/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1896344,
+          41.3753694
+        ]
+      },
+      "id": "node/674680688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/683288695",
+        "amenity": "restaurant",
+        "name": "El merendero de la Mari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1861306,
+          41.380282
+        ]
+      },
+      "id": "node/683288695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1014356745",
+        "addr:housenumber": "22",
+        "addr:street": "Carrer de l'Escar",
+        "amenity": "restaurant",
+        "name": "Barceloneta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1874945,
+          41.3758
+        ]
+      },
+      "id": "node/1014356745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1419848103",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "La Bombeta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1877114,
+          41.3805658
+        ]
+      },
+      "id": "node/1419848103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1430547830",
+        "addr:housenumber": "25",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer de Pepe Rubianes",
+        "amenity": "restaurant",
+        "cuisine": "fish",
+        "name": "Can Santi",
+        "name:en": "Con Sardi",
+        "opening_hours": "We-Su 13:30-16:30, 20:00-22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1905772,
+          41.3786578
+        ]
+      },
+      "id": "node/1430547830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1430547842",
+        "addr:housenumber": "1",
+        "addr:street": "Paseo Barceloneta",
+        "amenity": "restaurant",
+        "name": "Woki organic market",
+        "phone": "+34 93 224 12 51",
+        "website": "http://www.wokiorganicmarket.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1919227,
+          41.379111
+        ]
+      },
+      "id": "node/1430547842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1488979953",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Arenal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1942551,
+          41.3820204
+        ]
+      },
+      "id": "node/1488979953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1596371259",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Restaurant Ca la Montse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1882839,
+          41.3820657
+        ]
+      },
+      "id": "node/1596371259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1640963945",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Can Ramonet",
+        "website": "https://www.elnouramonet.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1889159,
+          41.3808197
+        ]
+      },
+      "id": "node/1640963945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2164013360",
+        "amenity": "restaurant",
+        "cuisine": "spanish, seafood, fish",
+        "name": "El Rey de la Gamba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1886316,
+          41.3773258
+        ]
+      },
+      "id": "node/2164013360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2184104530",
+        "addr:housenumber": "23",
+        "addr:street": "Carrer de l'Almirall Aixada",
+        "amenity": "restaurant",
+        "name": "Can Majó",
+        "opening_hours": "Tu-Sa 13:00-15:30, 20:00-23:30; Su 13:00-15:30",
+        "phone": "+34 932 21 54 55",
+        "website": "www.canmajo.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.190889,
+          41.3775229
+        ]
+      },
+      "id": "node/2184104530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2184580437",
+        "amenity": "restaurant",
+        "name": "La Malandrina",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1887898,
+          41.3782657
+        ]
+      },
+      "id": "node/2184580437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2268404102",
+        "amenity": "restaurant",
+        "name": "Habana Barcelona (HBN BCN)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1886085,
+          41.3753425
+        ]
+      },
+      "id": "node/2268404102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2268404105",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Rangoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1885746,
+          41.3750955
+        ]
+      },
+      "id": "node/2268404105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2268404106",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "La Taggliatella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1885458,
+          41.3750077
+        ]
+      },
+      "id": "node/2268404106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2268406109",
+        "amenity": "restaurant",
+        "name": "Makamaka Beach Burger Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1885823,
+          41.3757239
+        ]
+      },
+      "id": "node/2268406109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2268406110",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "name": "Porto Veccio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1880694,
+          41.3758021
+        ]
+      },
+      "id": "node/2268406110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2308130199",
+        "addr:housenumber": "12",
+        "addr:street": "Carrer de Baluard",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Can Maño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1884306,
+          41.3811461
+        ]
+      },
+      "id": "node/2308130199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2366679888",
+        "addr:housename": "54",
+        "addr:street": "Carrer Vila Joiosa",
+        "amenity": "restaurant",
+        "name": "Cavamar",
+        "phone": "+34 932257164",
+        "website": "www.cavamar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1911518,
+          41.3781446
+        ]
+      },
+      "id": "node/2366679888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2455795580",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "88",
+        "addr:postcode": "08039",
+        "addr:street": "Passeig de Joan de Borbó",
+        "amenity": "restaurant",
+        "fax": "+34 93 221 0090",
+        "name": "Torre d'Alta Mar",
+        "opening_hours": "Su-Mo 19:00-23:30;Tu-Sa 13:00-15:30,19:00-23:30",
+        "phone": "+34 93 221 0007",
+        "smoking": "no",
+        "website": "https://www.torredealtamar.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1879727,
+          41.3731453
+        ]
+      },
+      "id": "node/2455795580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511213137",
+        "addr:housenumber": "34",
+        "addr:postcode": "08003",
+        "addr:street": "Almirall Cervera",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Salamanca",
+        "website": "www.grupsilvestre.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1911528,
+          41.3785758
+        ]
+      },
+      "id": "node/2511213137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2691127106",
+        "amenity": "restaurant",
+        "name": "1881 per SAGARDI",
+        "note": "Entrance through the mesum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1860546,
+          41.3807514
+        ]
+      },
+      "id": "node/2691127106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2737964876",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "28",
+        "addr:street": "Sant Carles",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Maians",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.190448,
+          41.379378
+        ]
+      },
+      "id": "node/2737964876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2738000799",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "29",
+        "addr:postcode": "08",
+        "addr:street": "Sant Carles",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean",
+        "name": "Filferro",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.191283,
+          41.379627
+        ]
+      },
+      "id": "node/2738000799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2865897023",
+        "addr:housenumber": "2",
+        "addr:street": "Plaça del Poeta Boscá",
+        "amenity": "restaurant",
+        "contact:phone": "+34 932215458",
+        "name": "El Guindilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1890706,
+          41.380178
+        ]
+      },
+      "id": "node/2865897023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2883832907",
+        "addr:housenumber": "6-8",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer del Doctor Aiguader",
+        "amenity": "restaurant",
+        "cuisine": "tapas;spanish",
+        "name": "Restaurante Pasa Tapas",
+        "phone": "+34933194233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1871782,
+          41.382275
+        ]
+      },
+      "id": "node/2883832907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3076807047",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "1",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer de Balboa",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "name": "Bitacora",
+        "phone": "+34933153588",
+        "source": "business card"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.187671,
+          41.3821116
+        ]
+      },
+      "id": "node/3076807047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3084370508",
+        "addr:housenumber": "19-21",
+        "addr:street": "Calle de la Marina",
+        "amenity": "restaurant",
+        "name": "Marina Bay By Moncho's",
+        "phone": "+34932211514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1975017,
+          41.3863077
+        ]
+      },
+      "id": "node/3084370508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3107541790",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "19-21",
+        "addr:postcode": "08039",
+        "addr:street": "Passeig Mare Nostrum",
+        "amenity": "restaurant",
+        "contact:email": "reservas.pezvela@grupotragaluz.com",
+        "name": "Pez Vela Chiringuito",
+        "phone": "+34932216317",
+        "website": "https://grupotragaluz.com/restaurante/pez-vela/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1899766,
+          41.3691463
+        ]
+      },
+      "id": "node/3107541790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3306298147",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "5",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer del Judici",
+        "amenity": "restaurant",
+        "name": "Nass Restaurant",
+        "phone": "+34 931193724",
+        "website": "http://www.nassrestaurant.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1894837,
+          41.3765661
+        ]
+      },
+      "id": "node/3306298147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3700169311",
+        "amenity": "restaurant",
+        "name": "Puda Can Manel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1890771,
+          41.3765259
+        ]
+      },
+      "id": "node/3700169311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3761195248",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "name": "Rebelot",
+        "website": "http://rebelotbcn.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1892072,
+          41.379183
+        ]
+      },
+      "id": "node/3761195248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3815929006",
+        "amenity": "restaurant",
+        "name": "Caballa Canalla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.189413,
+          41.3802042
+        ]
+      },
+      "id": "node/3815929006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3815929010",
+        "addr:housenumber": "56",
+        "addr:street": "Carrer del Baluard",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "name": "La Cova Fumada",
+        "name:ca": "La Cova Fumada",
+        "name:es": "La Cova Fumada",
+        "opening_hours": "Mo-We 09:00-15:15; Th-Fr 09:00-15:15, 18:00-20:15; Sa 09:00-13:00",
+        "phone": "+34 932 21 40 61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1891943,
+          41.3792983
+        ]
+      },
+      "id": "node/3815929010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4070066903",
+        "amenity": "restaurant",
+        "name": "Can Ganassa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1882532,
+          41.3795415
+        ]
+      },
+      "id": "node/4070066903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4137545492",
+        "addr:housenumber": "5",
+        "addr:street": "Carrer de l'Almirall Aixada",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "diet:vegetarian": "no",
+        "name": "Bar Cal Chusco",
+        "opening_hours": "Fr-We 08:30-20:30",
+        "phone": "+34 637 01 00 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1891872,
+          41.3773167
+        ]
+      },
+      "id": "node/4137545492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4190947692",
+        "addr:housenumber": "5",
+        "addr:street": "Carrer de l'Almirall Aixada",
+        "amenity": "restaurant",
+        "diet:vegetarian": "no",
+        "name": "Bar Cal Chusco",
+        "opening_hours": "Fr-We 08:30-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1891745,
+          41.3772889
+        ]
+      },
+      "id": "node/4190947692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4241344690",
+        "amenity": "restaurant",
+        "diet:vegetarian": "no",
+        "name": "Toc de Mar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1877803,
+          41.3797598
+        ]
+      },
+      "id": "node/4241344690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4247196393",
+        "amenity": "restaurant",
+        "name": "Casa Ricardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1898206,
+          41.3791754
+        ]
+      },
+      "id": "node/4247196393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4254043290",
+        "amenity": "restaurant",
+        "name": "Vicino pizza bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1891166,
+          41.3762335
+        ]
+      },
+      "id": "node/4254043290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4321293789",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "70",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer de Sevilla",
+        "amenity": "restaurant",
+        "cuisine": "spanish;local",
+        "diet:raw": "yes",
+        "diet:vegan": "only",
+        "name": "Bar Celoneta Sangria Bar",
+        "opening_hours": "Mo 19:00-23:00; We-Th 13:00-15:30, 19:00-23:30; Fr 13:00-15:30, 19:00-24:00; Sa 13:00-24:00; Su 13:00-20:00",
+        "organic": "yes",
+        "phone": "+34 931 722 280",
+        "website": "http://www.bar-celoneta.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1899727,
+          41.3768604
+        ]
+      },
+      "id": "node/4321293789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4345179289",
+        "addr:housenumber": "22",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer de l'Almirall Aixada",
+        "amenity": "restaurant",
+        "cuisine": "burger;sandwich",
+        "internet_access": "wlan",
+        "name": "Surf House Barcelona",
+        "phone": "+34 932507023",
+        "website": "http://www.surfhousebarcelona.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1908362,
+          41.3774686
+        ]
+      },
+      "id": "node/4345179289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4346058258",
+        "amenity": "restaurant",
+        "name": "La Tasqueta 1800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1875804,
+          41.3819459
+        ]
+      },
+      "id": "node/4346058258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4384817989",
+        "addr:housenumber": "34",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer del Baluard",
+        "amenity": "restaurant",
+        "cuisine": "burger;sandwich",
+        "email": "brogrillandbread@gmail.com",
+        "name": "BRO Barceloneta",
+        "opening_hours": "Mo-Fr 13:00-16:30,20:00-23:30; Sa-Su 13:00-23:30",
+        "phone": "+34932210070",
+        "website": "https://brobarcelona.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1887387,
+          41.3803721
+        ]
+      },
+      "id": "node/4384817989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4398879189",
+        "addr:housenumber": "1",
+        "addr:postcode": "08039",
+        "addr:street": "Plaça de Pau Vila",
+        "amenity": "restaurant",
+        "cuisine": "spanish;mediterranean",
+        "internet_access": "wlan",
+        "name": "Emperador",
+        "name:ca": "EMPERADOR",
+        "name:es": "EMPERADOR",
+        "opening_hours": "Mo-Su 12:00-23:30",
+        "phone": "+34 932210220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1851393,
+          41.3808784
+        ]
+      },
+      "id": "node/4398879189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4407251389",
+        "addr:housenumber": "31",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer de l'Almirall Cervera",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Mar Brava",
+        "name:es": "Mar Brava"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1910568,
+          41.378756
+        ]
+      },
+      "id": "node/4407251389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4407259289",
+        "addr:street": "carrer de la maquinista",
+        "amenity": "restaurant",
+        "cuisine": "pizza;italian_pizza",
+        "internet_access": "wlan",
+        "name": "Buon Appetito",
+        "name:es": "Buon Appetito",
+        "phone": "+34 932684016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1902148,
+          41.3812277
+        ]
+      },
+      "id": "node/4407259289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4440352791",
+        "amenity": "restaurant",
+        "name": "La Gavina",
+        "name:ca": "LA GAVINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1854126,
+          41.3806821
+        ]
+      },
+      "id": "node/4440352791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4449224228",
+        "amenity": "restaurant",
+        "name": "TapaTapa Xiringuito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1906382,
+          41.376969
+        ]
+      },
+      "id": "node/4449224228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4457189290",
+        "addr:housenumber": "29",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer del Mar",
+        "amenity": "restaurant",
+        "name": "Bodega La Peninsular",
+        "name:ca": "Bodega La Peninsular",
+        "name:en": "Bodega La Peninsular",
+        "name:es": "Bodega La Peninsular",
+        "name:ro": "Bodega La Peninsular",
+        "phone": "+34 932 21 40 89",
+        "website": "http://www.tabernaycafetin.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1878722,
+          41.3803594
+        ]
+      },
+      "id": "node/4457189290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4463537689",
+        "amenity": "restaurant",
+        "name": "Can Solé",
+        "name:es": "Can Solé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1883542,
+          41.378983
+        ]
+      },
+      "id": "node/4463537689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4467840190",
+        "addr:housenumber": "52-54",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer Vila Joiosa",
+        "amenity": "restaurant",
+        "email": "info@elpacifico.es",
+        "internet_access": "wlan",
+        "name": "El Pacífico",
+        "phone": "+34935257164",
+        "website": "http://elpacifico.es"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1911969,
+          41.3778087
+        ]
+      },
+      "id": "node/4467840190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4582173789",
+        "amenity": "restaurant",
+        "name": "Sal Café",
+        "name:es": "Sal Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1935687,
+          41.3810173
+        ]
+      },
+      "id": "node/4582173789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4667580289",
+        "addr:housenumber": "1",
+        "addr:street": "Passeig Marítim de la Barceloneta",
+        "amenity": "restaurant",
+        "name": "Barraca",
+        "name:ca": "Barraca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1919022,
+          41.3790441
+        ]
+      },
+      "id": "node/4667580289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4707104899",
+        "addr:city": "Barcelona",
+        "addr:postcode": "08003",
+        "addr:street": "Passeig Marítim de la Barceloneta",
+        "amenity": "restaurant",
+        "cuisine": "fish",
+        "name": "Ca la Nuri",
+        "phone": "+34 932213775"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1948645,
+          41.3830101
+        ]
+      },
+      "id": "node/4707104899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4711505278",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "12345",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer de Ginebra",
+        "amenity": "restaurant",
+        "name": "Red Lobster",
+        "opening_hours": "Mo-Sa 10:00-21:00",
+        "phone": "+9173564320",
+        "website": "http://rebloster.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1903993,
+          41.382289
+        ]
+      },
+      "id": "node/4711505278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4760916821",
+        "addr:housenumber": "49",
+        "addr:street": "Carrer Mestrança",
+        "amenity": "restaurant",
+        "name": "La Heladería Mexicana",
+        "name:es": "La Heladería Mexicana",
+        "opening_hours": "Mo-Fr 11:00-18:00; Sa 11:00-17:00; Su 11:00-20:00",
+        "phone": "+34 931743498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1901746,
+          41.3771386
+        ]
+      },
+      "id": "node/4760916821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4785961543",
+        "amenity": "restaurant",
+        "name": "beach",
+        "name:es": "beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1889228,
+          41.3735572
+        ]
+      },
+      "id": "node/4785961543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4838962523",
+        "amenity": "restaurant",
+        "name:de": "Restaurant Agua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1960272,
+          41.3848204
+        ]
+      },
+      "id": "node/4838962523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4859446904",
+        "GEOSPECIFI": "building",
+        "IDADRESS": "1728",
+        "LOCATORDES": "addressNumber",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "19-21",
+        "addr:postcode": "08039",
+        "addr:province": "Barcelona",
+        "addr:street": "Passeig del Mare Nostrum",
+        "amenity": "restaurant",
+        "name": "W Lounge",
+        "osm_type": "node",
+        "ref:catastral": "2204319DF3820C",
+        "website": "https://www.w-barcelona.cat/w-lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1897373,
+          41.3691792
+        ]
+      },
+      "id": "node/4859446904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4859447469",
+        "GEOSPECIFI": "building",
+        "IDADRESS": "1755",
+        "LOCATORDES": "addressNumber",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "7",
+        "addr:postcode": "08039",
+        "addr:province": "Barcelona",
+        "addr:street": "Carrer de l'Escar",
+        "amenity": "restaurant",
+        "name": "Casa Juanito",
+        "osm_type": "node",
+        "ref:catastral": "2204308DF3820C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1875835,
+          41.3755109
+        ]
+      },
+      "id": "node/4859447469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4859447476",
+        "GEOSPECIFI": "building",
+        "IDADRESS": "1725",
+        "LOCATORDES": "addressNumber",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "19-21",
+        "addr:postcode": "08039",
+        "addr:province": "Barcelona",
+        "addr:street": "Passeig del Mare Nostrum",
+        "amenity": "restaurant",
+        "name": "Salt Restaurant & Beach Club",
+        "osm_type": "node",
+        "phone": "+34932952819",
+        "ref:catastral": "2204319DF3820C",
+        "website": "https://www.saltbeachclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1903908,
+          41.3691325
+        ]
+      },
+      "id": "node/4859447476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4859448353",
+        "GEOSPECIFI": "building",
+        "IDADRESS": "1727",
+        "LOCATORDES": "addressNumber",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "19-21",
+        "addr:postcode": "08039",
+        "addr:province": "Barcelona",
+        "addr:street": "Passeig del Mare Nostrum",
+        "amenity": "restaurant",
+        "name": "Gallito",
+        "osm_type": "node",
+        "phone": "+34933123585",
+        "ref:catastral": "2204319DF3820C",
+        "website": "https://encompaniadelobos.com/gallito"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1894117,
+          41.3692177
+        ]
+      },
+      "id": "node/4859448353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4859448381",
+        "GEOSPECIFI": "building",
+        "IDADRESS": "1724",
+        "LOCATORDES": "addressNumber",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "19-21",
+        "addr:postcode": "08039",
+        "addr:province": "Barcelona",
+        "addr:street": "Passeig del Mare Nostrum",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean;italian",
+        "name": "Mamarosa Beach",
+        "osm_type": "node",
+        "ref:catastral": "2204319DF3820C",
+        "website": "http://mamarosabeach.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1906631,
+          41.3690801
+        ]
+      },
+      "id": "node/4859448381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4859450597",
+        "GEOSPECIFI": "building",
+        "IDADRESS": "1786",
+        "LOCATORDES": "addressNumber",
+        "TIPE": "RESTAURANT CAL PINXO",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "1",
+        "addr:postcode": "08039",
+        "addr:province": "Barcelona",
+        "addr:street": "Plaça de Pau Vila",
+        "amenity": "restaurant",
+        "name": "Restaurant Cal Pinxo",
+        "osm_type": "node",
+        "ref:catastral": "2112401DF3821C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1855685,
+          41.3805405
+        ]
+      },
+      "id": "node/4859450597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881667127",
+        "addr:housenumber": "4",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer del Judici",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "El Refugio del Puerto",
+        "name:es": "El Refugio del Puerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1893563,
+          41.376426
+        ]
+      },
+      "id": "node/4881667127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5063620523",
+        "addr:housenumber": "101",
+        "addr:postcode": "08039",
+        "addr:street": "Passeig de Joan de Borbó",
+        "amenity": "restaurant",
+        "cuisine": "spanish;fish",
+        "internet_access": "wlan",
+        "name": "Maná 75°",
+        "name:es": "Maná 75",
+        "opening_hours": "Mo-Su 13:00-23:30",
+        "phone": "+34938326415",
+        "website": "https://www.mana75.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1884028,
+          41.3687343
+        ]
+      },
+      "id": "node/5063620523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5102744421",
+        "addr:housenumber": "11",
+        "addr:street": "Carrer de Sant Carles",
+        "amenity": "restaurant",
+        "name": "Somorrostro",
+        "name:es": "Somorrostro",
+        "opening_hours": "Mo-Su 13:00-00:00",
+        "website": "http://www.restaurantesomorrostro.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1890426,
+          41.3791628
+        ]
+      },
+      "id": "node/5102744421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5106588430",
+        "addr:housenumber": "7",
+        "addr:street": "Passeig de Joan de Borbó",
+        "amenity": "restaurant",
+        "name": "brunch & cake by the sea",
+        "name:es": "brunch & cake by the sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1872424,
+          41.3809812
+        ]
+      },
+      "id": "node/5106588430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5107534323",
+        "addr:housenumber": "10",
+        "addr:street": "Passeig de Joan de Borbó",
+        "amenity": "restaurant",
+        "name:en": "Meson Barceloneta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1874858,
+          41.3806019
+        ]
+      },
+      "id": "node/5107534323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5375096944",
+        "addr:street": "Moll de la Marina",
+        "amenity": "restaurant",
+        "description": "Beach Club, Bar and Restaurant by the sea",
+        "name": "Red Fish",
+        "nohousenumber": "yes",
+        "phone": "+34931716894",
+        "website": "www.redfishbarcelona.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1990989,
+          41.3848936
+        ]
+      },
+      "id": "node/5375096944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5418243448",
+        "amenity": "restaurant",
+        "name": "La Pampa",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1879402,
+          41.3793623
+        ]
+      },
+      "id": "node/5418243448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5418243450",
+        "amenity": "restaurant",
+        "name": "els maians",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1882219,
+          41.3786757
+        ]
+      },
+      "id": "node/5418243450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5418243451",
+        "amenity": "restaurant",
+        "name": "no30",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1879988,
+          41.3791653
+        ]
+      },
+      "id": "node/5418243451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5418243452",
+        "amenity": "restaurant",
+        "name": "Lolita",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1882936,
+          41.3783615
+        ]
+      },
+      "id": "node/5418243452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5418243453",
+        "amenity": "restaurant",
+        "name": "Toc de mar",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1881069,
+          41.378976
+        ]
+      },
+      "id": "node/5418243453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5418243454",
+        "amenity": "restaurant",
+        "name": "Reina Margherita",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1879835,
+          41.3792655
+        ]
+      },
+      "id": "node/5418243454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5465258223",
+        "addr:housenumber": "66",
+        "addr:postcode": "08003",
+        "addr:street": "Passeig de Joan de Borbó",
+        "amenity": "restaurant",
+        "cuisine": "spanish;brazilian;mexican",
+        "diet:vegan": "yes",
+        "name": "Foc",
+        "opening_hours": "Mo-Su 12:00-02:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1892694,
+          41.3759253
+        ]
+      },
+      "id": "node/5465258223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5590791521",
+        "addr:housenumber": "4",
+        "addr:street": "Carrer de l'Almirall Cervera",
+        "amenity": "restaurant",
+        "name": "Carne a La Brasa Iguazu",
+        "phone": "+34 930231908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1887098,
+          41.3780456
+        ]
+      },
+      "id": "node/5590791521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5672107821",
+        "amenity": "restaurant",
+        "name:en": "Paco Alcalde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1897527,
+          41.3773337
+        ]
+      },
+      "id": "node/5672107821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5951660889",
+        "amenity": "restaurant",
+        "name": "Bivio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1889641,
+          41.3766733
+        ]
+      },
+      "id": "node/5951660889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6223027612",
+        "amenity": "restaurant",
+        "cuisine": "spanish;tapas",
+        "name": "La fresca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1879084,
+          41.3805084
+        ]
+      },
+      "id": "node/6223027612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298115913",
+        "addr:housenumber": "69",
+        "addr:street": "Carrer del Baluard",
+        "amenity": "restaurant",
+        "name": "N.A.P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.190062,
+          41.3774955
+        ]
+      },
+      "id": "node/6298115913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6427641870",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "103",
+        "addr:postcode": "08039",
+        "addr:street": "Passeig de Joan de Borbó",
+        "amenity": "restaurant",
+        "name": "Camping Mar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1881977,
+          41.3673376
+        ]
+      },
+      "id": "node/6427641870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6557477328",
+        "addr:city": "Barcelona",
+        "addr:country": "ES",
+        "addr:postcode": "08003",
+        "amenity": "restaurant",
+        "contact:email": "lamalandrinabcn@gmail.com",
+        "contact:facebook": "https://www.facebook.com/pg/lamalandrinabcn",
+        "contact:phone": "+34 603621939",
+        "cuisine": "uruguayan;argentinian",
+        "name": "La Malandrina",
+        "opening_hours": "Mo-Su 13:30-00:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1884983,
+          41.3782091
+        ]
+      },
+      "id": "node/6557477328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6634324589",
+        "addr:housenumber": "56",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer del Baluard",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "name": "La Cova Fumada",
+        "phone": "+34 932 21 40 61",
+        "website": "http://www.lacovafumada.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1894064,
+          41.3787839
+        ]
+      },
+      "id": "node/6634324589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6634324593",
+        "addr:housenumber": "22",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer de Ginebra",
+        "amenity": "restaurant",
+        "contact:facebook": "http://www.facebook.com/elsopapu",
+        "cuisine": "tapas",
+        "name": "El Sopapu",
+        "phone": "+34 651 62 85 71"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1889625,
+          41.381695
+        ]
+      },
+      "id": "node/6634324593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6634324687",
+        "addr:housenumber": "1",
+        "addr:postcode": "08003",
+        "addr:street": "Plaça de la Barceloneta",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "name": "L'Òstia",
+        "phone": "+34 932 21 47 58",
+        "website": "http://www.lostiabcn.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1880541,
+          41.3799304
+        ]
+      },
+      "id": "node/6634324687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6680687871",
+        "addr:city": "Barcelona",
+        "addr:housenumber": "58-59",
+        "addr:postcode": "08003",
+        "addr:street": "Passeig de Joan de Borbó",
+        "amenity": "restaurant",
+        "name": "La Mar Salada",
+        "website": "http://www.lamarsalada.cat/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1888904,
+          41.3768035
+        ]
+      },
+      "id": "node/6680687871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6914133289",
+        "addr:housenumber": "16",
+        "addr:postcode": "08003",
+        "addr:street": "Carrer de Balboa",
+        "amenity": "restaurant",
+        "cuisine": "tapas",
+        "name": "Restaurant Segons Mercat Barceloneta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1886984,
+          41.3821946
+        ]
+      },
+      "id": "node/6914133289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7016593043",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "El Tio Pio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1869884,
+          41.3816987
+        ]
+      },
+      "id": "node/7016593043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7016638934",
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Kapadokya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1870013,
+          41.3816228
+        ]
+      },
+      "id": "node/7016638934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8041912186",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "Can Ros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1893813,
+          41.3773507
+        ]
+      },
+      "id": "node/8041912186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8262032617",
+        "amenity": "restaurant",
+        "name": "El Pintxo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1885693,
+          41.3807677
+        ]
+      },
+      "id": "node/8262032617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8422920717",
+        "amenity": "restaurant",
+        "name": "Bistro del Mercat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1887375,
+          41.38218
+        ]
+      },
+      "id": "node/8422920717"
+    }
+  ]
+}
