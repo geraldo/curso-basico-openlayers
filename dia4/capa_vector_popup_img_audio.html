@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <link rel="stylesheet" href="popup.css" type="text/css">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .map {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+    <title>OpenLayers: Vector Data</title>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+    <div id="popup" class="ol-popup">
+      <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+      <div id="popup-content"></div>
+    </div>
+
+    <script type="text/javascript">
+
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.XYZ({
+              url: 'https://{1-4}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png',
+            })
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              format: new ol.format.GeoJSON(),
+              url: 'countries.json'
+            })
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              format: new ol.format.GeoJSON(),
+              url: 'capitals.json'
+            })
+          })
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([0, 0]),
+          zoom: 0
+        })
+      });
+
+      /*
+       * Marker popup
+       */
+      var overlayPopup = new ol.Overlay({
+        element: document.getElementById('popup'),
+        autoPan: true,
+        autoPanAnimation: {
+          duration: 250
+        }
+      });
+      map.addOverlay(overlayPopup);
+
+      /*
+       * Cerrar popup
+       */
+      document.getElementById('popup-closer').onclick = function closePopup() {
+        overlayPopup.setPosition(undefined);
+        //$(this).blur();
+        return false;
+      }
+
+      /*
+       * Esconder popup al cambiar de zoom
+       */
+      map.getView().on('change:resolution', function() {
+        overlayPopup.setPosition(undefined);
+      });
+
+      /*
+       * Mostar info en popup al clickar
+       */
+      map.on('click', function(evt) {
+        let coordinate = evt.coordinate;
+        //console.log(ol.proj.toLonLat(coordinate));
+
+        let pixel = map.getPixelFromCoordinate(coordinate);
+        let output = '';
+
+        overlayPopup.setPosition(undefined);
+
+        map.forEachFeatureAtPixel(pixel, function(feature) {
+
+          if (feature.get('name') === undefined) {
+            output += 'Capital: ' + feature.get('city') + '<br>';
+            output += '<img style="width:100px" src="https://flagpedia.net/data/flags/w580/' + feature.get('tld') + '.png" /><br>';
+          }
+          else {
+            output += 'Country: ' + feature.getProperties().name + '<br>';
+
+          }
+
+          document.getElementById('popup-content').innerHTML = output;
+          overlayPopup.setPosition(coordinate);
+        });
+      });
+    </script>
+  </body>
+</html>
