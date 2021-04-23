@@ -21,6 +21,7 @@ Antes de empezar cada clase hay que descarregar los ficheros comprimidos en zip.
 
 - Día 1: https://geraldkogler.com/material/curso-basico-openlayers-dia1.zip
 - Día 2: https://geraldkogler.com/material/curso-basico-openlayers-dia2.zip
+- Día 3: https://geraldkogler.com/material/curso-basico-openlayers-dia3.zip
 
 ## Recursos utilizados
 
@@ -38,6 +39,7 @@ Tools:
 Data:
 - Natural Earth: https://www.naturalearthdata.com/
 - OpenData Barcelona: https://opendata-ajuntament.barcelona.cat/
+- Recursos abiertos ICGC: https://openicgc.github.io/
 - Overpass Turbo: https://overpass-turbo.eu/
 
 ## Dudas y comentarios
