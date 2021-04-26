@@ -22,6 +22,7 @@ Antes de empezar cada clase hay que descarregar los ficheros comprimidos en zip.
 - Día 1: https://geraldkogler.com/material/curso-basico-openlayers-dia1.zip
 - Día 2: https://geraldkogler.com/material/curso-basico-openlayers-dia2.zip
 - Día 3: https://geraldkogler.com/material/curso-basico-openlayers-dia3.zip
+- Día 4: https://geraldkogler.com/material/curso-basico-openlayers-dia4.zip
 
 ## Recursos utilizados
 
