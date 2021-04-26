@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <link rel="stylesheet" href="popup.css" type="text/css">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .map {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+      }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+    <title>OpenLayers: Vector Data</title>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+
+    <script type="text/javascript">
+
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.XYZ({
+              url: 'https://{1-4}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}.png',
+            })
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              format: new ol.format.GeoJSON(),
+              url: 'countries.json'
+            })
+          }),
+          new ol.layer.Vector({
+            source: new ol.source.Vector({
+              format: new ol.format.GeoJSON(),
+              url: 'capitals.json'
+            })
+          })
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([0, 0]),
+          zoom: 0
+        })
+      });
+
+      /*
+       * Marker popup
+       */
+
+      /*
+       * Cerrar popup
+       */
+      /*document.getElementById('popup-closer').onclick = function closePopup() {
+        overlayPopup.setPosition(undefined);
+        //$(this).blur();
+        return false;
+      }*/
+
+      /*
+       * Esconder popup al cambiar de zoom
+       */
+      /*map.getView().on('change:resolution', function() {
+        overlayPopup.setPosition(undefined);
+      });*/
+
+      /*
+       * Mostar info en popup al clickar
+       */
+    </script>
+  </body>
+</html>
