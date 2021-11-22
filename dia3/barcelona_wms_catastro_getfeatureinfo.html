@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        .map {
+            width: 100%;
+            height: 400px;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
+    <title>OpenLayers: Capas WMS</title>
+</head>
+<body>
+    <div id="map" class="map"></div>
+    <div id="info"></div>
+
+    <script type="text/javascript">
+        let catastroSource = new ol.source.TileWMS({
+            url: 'https://ovc.catastro.meh.es/Cartografia/WMS/ServidorWMS.aspx',
+            params: {
+                'LAYERS': 'catastro', 
+                'TILED': true,
+                'SRS': 'EPSG:3857'
+            },
+        })
+
+        let icgcSource = new ol.source.TileWMS({
+            url: 'https://geoserveis.icgc.cat/icc_bt5m/wms/service?',
+            params: {'LAYERS': '02_ALTI_PA,03_POBL_PA,04_POBL_PA,05_VEGE_PA,06_VEGE_PA,07_POBL_PA,08_VEGE_PA,09_HIDR_PA,10_HIDR_PA,11_POBL_PA,12_POBL_PA,13_HIDR_PA,14_ALTI_LN,15_ALTI_LN,16_ALTI_LN,17_ALTI_LN,19_HIDR_LN,20_HIDR_LN,21_HIDR_LN,22_HIDR_LN,23_VEGE_LN,24_VEGE_LN,25_ALTI_LN,26_POBL_LN,27_POBL_LN,28_POBL_LN,29_POBL_LN,30_POBL_PN,31_VIES_LN,32_VIES_LN,33_VIES_LN,34_VIES_LN,35_VIES_LN,36_VIES_LN,37_VIES_LN,38_POBL_LN,39_POBL_LN,40_TOPO_TX,41_PREF_PNTX,42_ALTI_PNTX,43_ALTI_TX', 'VERSION': '1.3.0'}
+        })
+
+        var map = new ol.Map({
+            target: 'map',
+            layers: [
+                // topográfico ICGC
+                new ol.layer.Tile({
+                    source: icgcSource
+                }),
+                
+                // catastro
+                new ol.layer.Tile({
+                    source: catastroSource
+                })
+            ],
+            view: new ol.View({
+                center: ol.proj.fromLonLat([ 2.027665411390514, 41.36152437117059 ]),
+                zoom: 18
+            })
+        });
+        
+        map.on('singleclick', function (evt) {
+            document.getElementById('info').innerHTML = '';
+            const viewResolution = /** @type {number} */ (map.getView().getResolution());
+            const url = icgcSource.getFeatureInfoUrl(
+            evt.coordinate,
+            viewResolution,
+            'EPSG:3857',
+            {'INFO_FORMAT': 'text/html'}
+            );
+            if (url) {
+                fetch(url)
+                .then((response) => response.text())
+                .then((html) => {
+                    document.getElementById('info').innerHTML = html;
+                });
+            }
+        });
+    </script>
+</body>
+</html>
