@@ -9,32 +9,30 @@
 
 ## Descarga material
 
-Antes de empezar cada clase hay que descargar los ficheros comprimidos en zip. Contienen la presentación y los ejemplos presentados en clase.
+Aquí todo el material para descargarselo, los zip contienen la presentación y los ejemplos presentados en clase y son equivalentes a los recursos en este repositorio:
 
-- Día 1: https://downgit.github.io/#/home?url=https://github.com/geraldo/curso-basico-openlayers-presencial/tree/master/dia1
-- Día 2: https://downgit.github.io/#/home?url=https://github.com/geraldo/curso-basico-openlayers-presencial/tree/master/dia2
-- Día 3: https://downgit.github.io/#/home?url=https://github.com/geraldo/curso-basico-openlayers-presencial/tree/master/dia3
-- Día 4: https://downgit.github.io/#/home?url=https://github.com/geraldo/curso-basico-openlayers-presencial/tree/master/dia4
+- Día 1: https://downgit.github.io/#/home?url=https://github.com/geraldo/curso-basico-openlayers/tree/master/dia1
 
 ## Recursos utilizados
 
 OpenLayers:
-- API OpenLayers: https://openlayers.org/en/latest/apidoc/
-- Ejemplos OpenLayers: https://openlayers.org/en/latest/examples/
-- OpenLayers Book: https://openlayersbook.github.io/
-- Stack Overflow: https://stackoverflow.com/questions/tagged/openlayers
+- [API OpenLayers](https://openlayers.org/en/latest/apidoc/)
+- [Ejemplos OpenLayers](https://openlayers.org/en/latest/examples/)
+- [OpenLayers Book](https://openlayersbook.github.io/)
+- [Stack Overflow OpenLayers](https://stackoverflow.com/questions/tagged/openlayers)
 
 Tools:
-- Editor: [Visual Studio Code](https://code.visualstudio.com/download) (con extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)) o similar
-- QGIS: https://qgis.org/
-- geojson.io: https://geojson.io/
-- Mapshaper: https://mapshaper.org/
+- Editor: [Visual Studio Code](https://code.visualstudio.com/download) o similar
+- Extensiones para Visual Studio Code: Live Server, Prettier - Code Formatter, VS Code Map preview, Geo Data Viewer
+- [QGIS](https://qgis.org/)
+- [geojson.io](https://geojson.io/)
+- [Mapshaper](https://mapshaper.org/)
 
 Data:
-- Natural Earth: https://www.naturalearthdata.com/
-- OpenData Barcelona: https://opendata-ajuntament.barcelona.cat/
-- Recursos abiertos ICGC: https://openicgc.github.io/
-- Overpass Turbo: https://overpass-turbo.eu/
+- [Natural Earth](https://www.naturalearthdata.com/)
+- [OpenData Barcelona](https://opendata-ajuntament.barcelona.cat/)
+- [Recursos abiertos ICGC](https://openicgc.github.io/)
+- [Overpass Turbo](https://overpass-turbo.eu/)
 
 ## Dudas y comentarios
 
