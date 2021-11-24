@@ -12,6 +12,7 @@
 Aquí todo el material para descargarselo, los zip contienen la presentación y los ejemplos presentados en clase y son equivalentes a los recursos en este repositorio:
 
 - Día 1: https://downgit.github.io/#/home?url=https://github.com/geraldo/curso-basico-openlayers/tree/master/dia1
+- Día 2: https://downgit.github.io/#/home?url=https://github.com/geraldo/curso-basico-openlayers/tree/master/dia2
 
 ## Recursos utilizados
 
@@ -25,6 +26,7 @@ Tools:
 - Editor: [Visual Studio Code](https://code.visualstudio.com/download) o similar
 - Extensiones para Visual Studio Code: Live Server, Prettier - Code Formatter, VS Code Map preview, Geo Data Viewer
 - [QGIS](https://qgis.org/)
+- Plugins de QGIS: qgis2web, QuickMapSerivces, QuickOSM
 - [geojson.io](https://geojson.io/)
 - [Mapshaper](https://mapshaper.org/)
 
