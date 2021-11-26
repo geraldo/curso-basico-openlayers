@@ -13,6 +13,7 @@ Aquí todo el material para descargarselo, los zip contienen la presentación y 
 
 - Día 1: https://downgit.github.io/#/home?url=https://github.com/geraldo/curso-basico-openlayers/tree/master/dia1
 - Día 2: https://downgit.github.io/#/home?url=https://github.com/geraldo/curso-basico-openlayers/tree/master/dia2
+- Día 3: https://downgit.github.io/#/home?url=https://github.com/geraldo/curso-basico-openlayers/tree/master/dia3
 
 ## Recursos utilizados
 
