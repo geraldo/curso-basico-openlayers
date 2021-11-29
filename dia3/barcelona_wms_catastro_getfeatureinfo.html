@@ -63,7 +63,7 @@
             {'INFO_FORMAT': 'text/html'}
             );
             if (url) {
-                fetch(url)
+                fetch(url, {mode: 'no-cors'})
                 .then((response) => response.text())
                 .then((html) => {
                     document.getElementById('info').innerHTML = html;

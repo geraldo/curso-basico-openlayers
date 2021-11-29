@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
-    <link rel="stylesheet" href="popup.css" type="text/css">
+    <!-- <link rel="stylesheet" href="popup.css" type="text/css"> -->
     <style>
       body {
         margin: 0;
@@ -16,7 +16,7 @@
       }
     </style>
     <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/build/ol.js"></script>
-    <title>OpenLayers: Vector Data</title>
+    <title>OpenLayers: Popup</title>
   </head>
   <body>
     <div id="map" class="map"></div>
@@ -68,6 +68,13 @@
        */
       /*map.getView().on('change:resolution', function() {
         overlayPopup.setPosition(undefined);
+      });*/
+
+      /*
+       * Mostrar mouse over
+       */
+      /*map.on('pointermove', function(evt) {
+        map.getTargetElement().style.cursor = map.hasFeatureAtPixel(evt.pixel) ? 'pointer' : '';
       });*/
 
       /*
