@@ -27,13 +27,13 @@
           new ol.layer.Vector({
             source: new ol.source.Vector({
               format: new ol.format.GeoJSON(),
-              url: 'countries.json'
+              url: 'countries_ext.geojson'
             })
           }),
           new ol.layer.Vector({
             source: new ol.source.Vector({
               format: new ol.format.GeoJSON(),
-              url: 'capitals.json'
+              url: 'capitals_ext.geojson'
             })
           })
         ],
@@ -55,8 +55,8 @@
 
         let pixel = map.getPixelFromCoordinate(coordinate);
         map.forEachFeatureAtPixel(pixel, function(feature) {
-          if (feature.get('name') === undefined) {
-            el.innerHTML += 'Capital: ' + feature.get('city') + '<br>';
+          if (feature.get('FEATURECLA') === "Admin-0 capital") {
+            el.innerHTML += 'Capital: ' + feature.get('NAME') + '<br>';
           }
           else {
             let geometry = feature.getGeometry();
@@ -78,7 +78,7 @@
             }
             area = area / 1000000;
             // display the country name and area now
-            el.innerHTML += feature.getProperties().name + ' (' + area.toFixed(0) + ' km<sup>2</sup>)<br>';
+            el.innerHTML += feature.get("NAME") + ' (' + area.toFixed(0) + ' km<sup>2</sup>)<br>';
           }
         });
       });
