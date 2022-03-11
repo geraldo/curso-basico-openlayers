@@ -45,18 +45,18 @@
           // catastro
           new ol.layer.Tile({
             source: new ol.source.TileWMS({
-              url: 'http://ovc.catastro.meh.es/Cartografia/WMS/ServidorWMS.aspx',
+              url: 'https://ovc.catastro.meh.es/Cartografia/WMS/ServidorWMS.aspx',
               params: {
                 'LAYERS': 'catastro', 
                 'TILED': true,
-                'SRS': 'EPSG:3857'
+                'SRS': 'EPSG:25831'
               },
             })
           })
         ],
         view: new ol.View({
-          center: ol.proj.fromLonLat([ 2.027665411390514, 41.36152437117059 ]),
-          zoom: 18,
+          center: ol.proj.fromLonLat([2.15, 41.35], 'EPSG:25831'),
+          zoom: 16,
           projection: projection
         })
       });
