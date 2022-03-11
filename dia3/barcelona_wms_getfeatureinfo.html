@@ -57,8 +57,8 @@
             document.getElementById('info').innerHTML = '';
             const viewResolution = /** @type {number} */ (map.getView().getResolution());
 
-            //getInfo(evt.coordinate, viewResolution, icgcSource);
-            getInfo(evt.coordinate, viewResolution, catastroSource);
+            getInfo(evt.coordinate, viewResolution, icgcSource);
+            //getInfo(evt.coordinate, viewResolution, catastroSource);
         });
 
         function getInfo(coord, viewResolution, source) {
@@ -72,8 +72,8 @@
             console.log(coord, url);
 
             if (url) {
-                //fetch(url)
-                fetch(url, { mode: 'no-cors' })
+                fetch(url)
+                //fetch(url, { mode: 'no-cors' })
                 .then((response) => response.text())
                 .then((html) => {
                     console.log(html);
